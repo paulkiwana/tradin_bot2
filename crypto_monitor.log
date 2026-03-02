@@ -1,0 +1,1638 @@
+2026-02-27 13:44:33,655 - INFO - Initialized CryptoMonitor for ['BTC/USDT', 'ETH/USDT'] on binance
+2026-02-27 13:44:33,655 - INFO - Starting Crypto Monitor...
+2026-02-27 13:44:33,655 - INFO - Monitoring: BTC/USDT, ETH/USDT
+2026-02-27 13:44:33,655 - INFO - Check interval: 300 seconds
+2026-02-27 13:44:33,655 - INFO - Checking BTC/USDT...
+2026-02-27 13:44:43,601 - INFO - BTC/USDT - Price: $66844.15, RSI(4H): 41.04, RSI(1D): 46.99
+2026-02-27 13:44:43,607 - INFO - BTC/USDT - No alerts at this time
+2026-02-27 13:44:45,610 - INFO - Checking ETH/USDT...
+2026-02-27 13:44:47,406 - INFO - ETH/USDT - Price: $1993.84, RSI(4H): 39.00, RSI(1D): 51.77
+2026-02-27 13:44:47,406 - INFO - ETH/USDT - No alerts at this time
+2026-02-27 13:44:49,415 - INFO - Waiting 300 seconds until next check...
+2026-02-27 13:45:03,824 - INFO - Stopping Crypto Monitor...
+2026-02-27 13:46:13,099 - INFO - Initialized CryptoMonitor for ['BTC/USDT', 'ETH/USDT', 'SOL/USDT', 'MYX/USDT'] on binance
+2026-02-27 13:46:13,099 - INFO - Starting Crypto Monitor...
+2026-02-27 13:46:13,099 - INFO - Monitoring: BTC/USDT, ETH/USDT, SOL/USDT, MYX/USDT
+2026-02-27 13:46:13,099 - INFO - Check interval: 300 seconds
+2026-02-27 13:46:13,099 - INFO - Checking BTC/USDT...
+2026-02-27 13:46:23,102 - INFO - BTC/USDT - Price: $66803.55, RSI(4H): 40.46, RSI(1D): 46.71
+2026-02-27 13:46:23,102 - INFO - BTC/USDT - No alerts at this time
+2026-02-27 13:46:25,106 - INFO - Checking ETH/USDT...
+2026-02-27 13:46:26,740 - INFO - ETH/USDT - Price: $1992.53, RSI(4H): 38.56, RSI(1D): 51.56
+2026-02-27 13:46:26,740 - INFO - ETH/USDT - No alerts at this time
+2026-02-27 13:46:28,751 - INFO - Checking SOL/USDT...
+2026-02-27 13:46:30,724 - INFO - SOL/USDT - Price: $85.36, RSI(4H): 43.39, RSI(1D): 53.45
+2026-02-27 13:46:30,724 - INFO - SOL/USDT - No alerts at this time
+2026-02-27 13:46:32,733 - INFO - Checking MYX/USDT...
+2026-02-27 13:46:32,733 - ERROR - Error fetching data for MYX/USDT 1w: binance does not have market symbol MYX/USDT
+2026-02-27 13:46:32,733 - ERROR - Error fetching data for MYX/USDT 1M: binance does not have market symbol MYX/USDT
+2026-02-27 13:46:32,733 - ERROR - Error fetching data for MYX/USDT 4h: binance does not have market symbol MYX/USDT
+2026-02-27 13:46:32,733 - ERROR - Error fetching data for MYX/USDT 1d: binance does not have market symbol MYX/USDT
+2026-02-27 13:46:32,733 - WARNING - Could not fetch all data for MYX/USDT
+2026-02-27 13:46:34,736 - INFO - Waiting 300 seconds until next check...
+2026-02-27 13:47:50,537 - INFO - Stopping Crypto Monitor...
+2026-02-27 13:54:44,084 - INFO - Initialized CryptoMonitor for ['BTC/USDT', 'ETH/USDT', 'SOL/USDT', 'MYX/USDT'] on bybit
+2026-02-27 13:54:44,084 - INFO - Starting Crypto Monitor...
+2026-02-27 13:54:44,084 - INFO - Monitoring: BTC/USDT, ETH/USDT, SOL/USDT, MYX/USDT
+2026-02-27 13:54:44,084 - INFO - Check interval: 300 seconds
+2026-02-27 13:54:44,084 - INFO - Checking BTC/USDT...
+2026-02-27 13:54:53,852 - INFO - BTC/USDT - Price: $66606.50, RSI(4H): 37.83, RSI(1D): 45.61
+2026-02-27 13:54:53,852 - INFO - BTC/USDT - No alerts at this time
+2026-02-27 13:54:55,860 - INFO - Checking ETH/USDT...
+2026-02-27 13:54:56,908 - INFO - ETH/USDT - Price: $1980.15, RSI(4H): 34.79, RSI(1D): 49.73
+2026-02-27 13:54:56,908 - INFO - ETH/USDT - No alerts at this time
+2026-02-27 13:54:58,924 - INFO - Checking SOL/USDT...
+2026-02-27 13:55:00,281 - INFO - SOL/USDT - Price: $84.58, RSI(4H): 38.54, RSI(1D): 51.13
+2026-02-27 13:55:00,281 - INFO - SOL/USDT - No alerts at this time
+2026-02-27 13:55:02,294 - INFO - Checking MYX/USDT...
+2026-02-27 13:55:02,294 - ERROR - Error fetching data for MYX/USDT 1w: bybit does not have market symbol MYX/USDT
+2026-02-27 13:55:02,294 - ERROR - Error fetching data for MYX/USDT 1M: bybit does not have market symbol MYX/USDT
+2026-02-27 13:55:02,294 - ERROR - Error fetching data for MYX/USDT 4h: bybit does not have market symbol MYX/USDT
+2026-02-27 13:55:02,294 - ERROR - Error fetching data for MYX/USDT 1d: bybit does not have market symbol MYX/USDT
+2026-02-27 13:55:02,294 - WARNING - Could not fetch all data for MYX/USDT
+2026-02-27 13:55:04,302 - INFO - Waiting 300 seconds until next check...
+2026-02-27 13:56:42,148 - INFO - Stopping Crypto Monitor...
+2026-02-27 13:57:43,488 - INFO - Initialized AutoCryptoMonitor on bybit
+2026-02-27 13:57:43,488 - INFO - Auto-discovering symbols with quote currencies: USDT, USD, BTC, ETH
+2026-02-27 13:57:43,488 - INFO - Minimum 24h volume: $1,000,000
+2026-02-27 13:57:43,488 - INFO - Starting Auto Crypto Monitor...
+2026-02-27 13:57:43,488 - INFO - Exchange: bybit
+2026-02-27 13:57:43,488 - INFO - Quote currencies: USDT, USD, BTC, ETH
+2026-02-27 13:57:43,488 - INFO - Minimum 24h volume: $1,000,000
+2026-02-27 13:57:43,504 - INFO - Max symbols to monitor: 100
+2026-02-27 13:57:43,504 - INFO - Check interval: 300 seconds
+2026-02-27 13:57:43,504 - INFO - Discovering available cryptocurrencies...
+2026-02-27 13:57:51,809 - INFO - Fetching market data for volume filtering...
+2026-02-27 13:57:53,048 - INFO - Discovered 100 cryptocurrencies to monitor
+2026-02-27 13:57:53,048 - INFO - Top 10 by volume: BTC/USDT:USDT, ETH/USDT:USDT, SOL/USDT:USDT, POWER/USDT:USDT, XRP/USDT:USDT, HYPE/USDT:USDT, DOGE/USDT:USDT, PIPPIN/USDT:USDT, 1000PEPE/USDT:USDT, DOT/USDT:USDT
+2026-02-27 13:57:53,048 - INFO - Saved 100 symbols to cache
+2026-02-27 13:57:53,048 - INFO - === Cycle 1: Checking 100 symbols ===
+2026-02-27 13:58:15,269 - INFO - Progress: 10/100 symbols checked
+2026-02-27 13:58:39,429 - INFO - Progress: 20/100 symbols checked
+2026-02-27 13:59:01,181 - INFO - Progress: 30/100 symbols checked
+2026-02-27 13:59:21,888 - INFO - Progress: 40/100 symbols checked
+2026-02-27 13:59:47,619 - INFO - Progress: 50/100 symbols checked
+2026-02-27 14:00:12,367 - INFO - Progress: 60/100 symbols checked
+2026-02-27 14:00:57,728 - INFO - Progress: 70/100 symbols checked
+2026-02-27 14:01:03,211 - INFO - Initialized AutoCryptoMonitor on bybit
+2026-02-27 14:01:03,211 - INFO - Auto-discovering symbols with quote currencies: USDT, USD, BTC, ETH
+2026-02-27 14:01:03,211 - INFO - Minimum 24h volume: $500,000
+2026-02-27 14:01:03,211 - INFO - Starting Auto Crypto Monitor...
+2026-02-27 14:01:03,211 - INFO - Exchange: bybit
+2026-02-27 14:01:03,211 - INFO - Quote currencies: USDT, USD, BTC, ETH
+2026-02-27 14:01:03,211 - INFO - Minimum 24h volume: $500,000
+2026-02-27 14:01:03,211 - INFO - Max symbols to monitor: 100
+2026-02-27 14:01:03,211 - INFO - Check interval: 300 seconds
+2026-02-27 14:01:03,211 - INFO - Discovering available cryptocurrencies...
+2026-02-27 14:01:11,556 - INFO - Fetching market data for volume filtering...
+2026-02-27 14:01:12,463 - INFO - Discovered 100 cryptocurrencies to monitor
+2026-02-27 14:01:12,463 - INFO - Top 10 by volume: BTC/USDT:USDT, ETH/USDT:USDT, SOL/USDT:USDT, POWER/USDT:USDT, XRP/USDT:USDT, HYPE/USDT:USDT, DOGE/USDT:USDT, PIPPIN/USDT:USDT, 1000PEPE/USDT:USDT, DOT/USDT:USDT
+2026-02-27 14:01:12,463 - INFO - Saved 100 symbols to cache
+2026-02-27 14:01:12,463 - INFO - === Cycle 1: Checking 100 symbols ===
+2026-02-27 14:01:19,137 - INFO - Progress: 80/100 symbols checked
+2026-02-27 14:01:31,673 - INFO - Progress: 10/100 symbols checked
+2026-02-27 14:01:42,223 - INFO - Progress: 90/100 symbols checked
+2026-02-27 14:02:03,462 - INFO - Progress: 20/100 symbols checked
+2026-02-27 14:02:04,635 - INFO - Progress: 100/100 symbols checked
+2026-02-27 14:02:05,644 - INFO - Cycle 1 complete. Waiting 300 seconds...
+2026-02-27 14:02:25,247 - INFO - Progress: 30/100 symbols checked
+2026-02-27 14:02:51,088 - INFO - Progress: 40/100 symbols checked
+2026-02-27 14:03:13,941 - INFO - Progress: 50/100 symbols checked
+2026-02-27 14:03:34,672 - INFO - Progress: 60/100 symbols checked
+2026-02-27 14:03:35,109 - INFO - Initialized AutoCryptoMonitor on bybit
+2026-02-27 14:03:35,109 - INFO - Auto-discovering symbols with quote currencies: USDT, USD, BTC, ETH
+2026-02-27 14:03:35,109 - INFO - Minimum 24h volume: $500,000
+2026-02-27 14:03:35,109 - INFO - Starting Auto Crypto Monitor...
+2026-02-27 14:03:35,125 - INFO - Exchange: bybit
+2026-02-27 14:03:35,125 - INFO - Quote currencies: USDT, USD, BTC, ETH
+2026-02-27 14:03:35,125 - INFO - Minimum 24h volume: $500,000
+2026-02-27 14:03:35,125 - INFO - Max symbols to monitor: 100
+2026-02-27 14:03:35,141 - INFO - Check interval: 300 seconds
+2026-02-27 14:03:35,141 - INFO - Discovering available cryptocurrencies...
+2026-02-27 14:03:45,283 - INFO - Fetching market data for volume filtering...
+2026-02-27 14:03:46,017 - INFO - Discovered 100 cryptocurrencies to monitor
+2026-02-27 14:03:46,017 - INFO - Top 10 by volume: BTC/USDT:USDT, ETH/USDT:USDT, SOL/USDT:USDT, POWER/USDT:USDT, XRP/USDT:USDT, HYPE/USDT:USDT, DOGE/USDT:USDT, PIPPIN/USDT:USDT, 1000PEPE/USDT:USDT, DOT/USDT:USDT
+2026-02-27 14:03:46,017 - INFO - Saved 100 symbols to cache
+2026-02-27 14:03:46,017 - INFO - === Cycle 1: Checking 100 symbols ===
+2026-02-27 14:03:57,286 - INFO - Progress: 70/100 symbols checked
+2026-02-27 14:04:09,243 - INFO - Progress: 10/100 symbols checked
+2026-02-27 14:04:20,028 - INFO - Progress: 80/100 symbols checked
+2026-02-27 14:04:33,625 - INFO - Progress: 20/100 symbols checked
+2026-02-27 14:04:44,191 - INFO - Progress: 90/100 symbols checked
+2026-02-27 14:04:59,258 - INFO - Progress: 30/100 symbols checked
+2026-02-27 14:05:06,073 - INFO - Progress: 100/100 symbols checked
+2026-02-27 14:05:07,078 - INFO - Cycle 1 complete. Waiting 300 seconds...
+2026-02-27 14:05:17,919 - WARNING - ALERT: VVV/USDT:USDT Alert!
+Price: $5.13
+Near RESISTANCE: $5.21
+Condition: OVERSOLD
+RSI(4H): 86.61 | RSI(1D): 77.13
+2026-02-27 14:05:17,919 - INFO - VVV/USDT:USDT - Price: $5.13, RSI(4H): 86.61, RSI(1D): 77.13
+2026-02-27 14:05:21,838 - INFO - Progress: 40/100 symbols checked
+2026-02-27 14:05:44,335 - INFO - Progress: 50/100 symbols checked
+2026-02-27 14:06:06,432 - INFO - Progress: 60/100 symbols checked
+2026-02-27 14:06:29,404 - INFO - Progress: 70/100 symbols checked
+2026-02-27 14:06:52,808 - INFO - Progress: 80/100 symbols checked
+2026-02-27 14:07:05,646 - INFO - === Cycle 2: Checking 100 symbols ===
+2026-02-27 14:07:22,389 - INFO - Progress: 90/100 symbols checked
+2026-02-27 14:07:43,678 - INFO - Progress: 10/100 symbols checked
+2026-02-27 14:07:49,247 - INFO - Progress: 100/100 symbols checked
+2026-02-27 14:07:50,249 - INFO - Cycle 1 complete. Waiting 300 seconds...
+2026-02-27 14:08:06,391 - INFO - Progress: 20/100 symbols checked
+2026-02-27 14:08:32,903 - INFO - Progress: 30/100 symbols checked
+2026-02-27 14:08:57,314 - INFO - Progress: 40/100 symbols checked
+2026-02-27 14:52:43,898 - INFO - Initialized AutoCryptoMonitor on bybit
+2026-02-27 14:52:43,898 - INFO - Auto-discovering symbols with quote currencies: USDT, USD, BTC, ETH
+2026-02-27 14:52:43,898 - INFO - Minimum 24h volume: $500,000
+2026-02-27 14:52:43,898 - INFO - Starting Auto Crypto Monitor...
+2026-02-27 14:52:43,898 - INFO - Exchange: bybit
+2026-02-27 14:52:43,898 - INFO - Quote currencies: USDT, USD, BTC, ETH
+2026-02-27 14:52:43,898 - INFO - Minimum 24h volume: $500,000
+2026-02-27 14:52:43,898 - INFO - Max symbols to monitor: 100
+2026-02-27 14:52:43,898 - INFO - Check interval: 300 seconds
+2026-02-27 14:52:43,898 - INFO - Discovering available cryptocurrencies...
+2026-02-27 14:52:58,196 - INFO - Fetching market data for volume filtering...
+2026-02-27 14:53:01,246 - INFO - Discovered 100 cryptocurrencies to monitor
+2026-02-27 14:53:01,246 - INFO - Top 10 by volume: BTC/USDT:USDT, ETH/USDT:USDT, SOL/USDT:USDT, XRP/USDT:USDT, POWER/USDT:USDT, DOGE/USDT:USDT, HYPE/USDT:USDT, PIPPIN/USDT:USDT, 1000PEPE/USDT:USDT, DOT/USDT:USDT
+2026-02-27 14:53:01,263 - INFO - Saved 100 symbols to cache
+2026-02-27 14:53:01,263 - INFO - === Cycle 1: Checking 100 symbols ===
+2026-02-27 14:53:39,188 - INFO - Progress: 10/100 symbols checked
+2026-02-27 14:54:14,159 - INFO - Progress: 20/100 symbols checked
+2026-02-27 14:54:37,927 - INFO - Progress: 30/100 symbols checked
+2026-02-27 14:55:05,473 - INFO - Progress: 40/100 symbols checked
+2026-02-27 14:55:28,872 - INFO - Progress: 50/100 symbols checked
+2026-02-27 14:55:54,079 - INFO - Progress: 60/100 symbols checked
+2026-02-27 14:56:19,503 - INFO - Progress: 70/100 symbols checked
+2026-02-27 14:56:43,801 - INFO - Progress: 80/100 symbols checked
+2026-02-27 14:57:07,706 - INFO - Progress: 90/100 symbols checked
+2026-02-27 14:57:42,973 - INFO - Progress: 100/100 symbols checked
+2026-02-27 14:57:43,989 - INFO - Cycle 1 complete. Waiting 300 seconds...
+2026-02-27 15:02:43,990 - INFO - === Cycle 2: Checking 100 symbols ===
+2026-02-27 15:03:08,503 - INFO - Progress: 10/100 symbols checked
+2026-02-27 15:03:33,552 - INFO - Progress: 20/100 symbols checked
+2026-02-27 15:03:58,989 - INFO - Progress: 30/100 symbols checked
+2026-02-27 15:04:25,472 - INFO - Progress: 40/100 symbols checked
+2026-02-27 15:04:49,223 - INFO - Progress: 50/100 symbols checked
+2026-02-27 15:05:14,568 - INFO - Progress: 60/100 symbols checked
+2026-02-27 15:05:39,301 - INFO - Progress: 70/100 symbols checked
+2026-02-27 15:06:03,129 - INFO - Progress: 80/100 symbols checked
+2026-02-27 15:06:29,924 - INFO - Progress: 90/100 symbols checked
+2026-02-27 15:06:54,692 - INFO - Progress: 100/100 symbols checked
+2026-02-27 15:06:55,699 - INFO - Cycle 2 complete. Waiting 300 seconds...
+2026-02-27 15:11:55,701 - INFO - === Cycle 3: Checking 100 symbols ===
+2026-02-27 15:12:08,998 - INFO - Progress: 10/100 symbols checked
+2026-02-27 15:12:22,105 - INFO - Progress: 20/100 symbols checked
+2026-02-27 15:12:35,228 - INFO - Progress: 30/100 symbols checked
+2026-02-27 15:12:48,338 - INFO - Progress: 40/100 symbols checked
+2026-02-27 15:13:01,469 - INFO - Progress: 50/100 symbols checked
+2026-02-27 15:13:14,592 - INFO - Progress: 60/100 symbols checked
+2026-02-27 15:13:27,707 - INFO - Progress: 70/100 symbols checked
+2026-02-27 15:13:40,836 - INFO - Progress: 80/100 symbols checked
+2026-02-27 15:13:53,965 - INFO - Progress: 90/100 symbols checked
+2026-02-27 15:14:07,099 - INFO - Progress: 100/100 symbols checked
+2026-02-27 15:14:08,104 - INFO - Cycle 3 complete. Waiting 300 seconds...
+2026-02-27 15:19:08,468 - INFO - === Cycle 4: Checking 100 symbols ===
+2026-02-27 15:19:20,554 - INFO - Progress: 10/100 symbols checked
+2026-02-27 15:19:33,646 - INFO - Progress: 20/100 symbols checked
+2026-02-27 15:19:46,764 - INFO - Progress: 30/100 symbols checked
+2026-02-27 15:19:59,891 - INFO - Progress: 40/100 symbols checked
+2026-02-27 15:20:13,009 - INFO - Progress: 50/100 symbols checked
+2026-02-27 15:20:26,145 - INFO - Progress: 60/100 symbols checked
+2026-02-27 15:20:39,243 - INFO - Progress: 70/100 symbols checked
+2026-02-27 15:20:52,365 - INFO - Progress: 80/100 symbols checked
+2026-02-27 15:21:05,499 - INFO - Progress: 90/100 symbols checked
+2026-02-27 15:21:18,589 - INFO - Progress: 100/100 symbols checked
+2026-02-27 15:21:19,591 - INFO - Cycle 4 complete. Waiting 300 seconds...
+2026-02-27 15:26:19,592 - INFO - === Cycle 5: Checking 100 symbols ===
+2026-02-27 15:26:31,703 - INFO - Progress: 10/100 symbols checked
+2026-02-27 15:26:44,832 - INFO - Progress: 20/100 symbols checked
+2026-02-27 15:26:57,933 - INFO - Progress: 30/100 symbols checked
+2026-02-27 15:27:11,054 - INFO - Progress: 40/100 symbols checked
+2026-02-27 15:27:24,181 - INFO - Progress: 50/100 symbols checked
+2026-02-27 15:27:37,303 - INFO - Progress: 60/100 symbols checked
+2026-02-27 15:27:50,423 - INFO - Progress: 70/100 symbols checked
+2026-02-27 15:28:03,536 - INFO - Progress: 80/100 symbols checked
+2026-02-27 15:28:16,665 - INFO - Progress: 90/100 symbols checked
+2026-02-27 15:28:29,806 - INFO - Progress: 100/100 symbols checked
+2026-02-27 15:28:30,811 - INFO - Cycle 5 complete. Waiting 300 seconds...
+2026-02-27 15:33:30,812 - INFO - === Cycle 6: Checking 100 symbols ===
+2026-02-27 15:33:55,619 - INFO - Progress: 10/100 symbols checked
+2026-02-27 15:34:19,292 - INFO - Progress: 20/100 symbols checked
+2026-02-27 15:34:44,279 - INFO - Progress: 30/100 symbols checked
+2026-02-27 15:35:08,207 - INFO - Progress: 40/100 symbols checked
+2026-02-27 15:35:31,578 - INFO - Progress: 50/100 symbols checked
+2026-02-27 15:35:55,907 - INFO - Progress: 60/100 symbols checked
+2026-02-27 15:36:18,241 - INFO - Progress: 70/100 symbols checked
+2026-02-27 15:36:42,087 - INFO - Progress: 80/100 symbols checked
+2026-02-27 15:37:08,168 - INFO - Progress: 90/100 symbols checked
+2026-02-27 15:37:31,630 - INFO - Progress: 100/100 symbols checked
+2026-02-27 15:37:32,636 - INFO - Cycle 6 complete. Waiting 300 seconds...
+2026-02-27 15:42:32,637 - INFO - === Cycle 7: Checking 100 symbols ===
+2026-02-27 15:43:00,598 - INFO - Progress: 10/100 symbols checked
+2026-02-27 15:43:24,849 - INFO - Progress: 20/100 symbols checked
+2026-02-27 15:43:50,261 - INFO - Progress: 30/100 symbols checked
+2026-02-27 15:44:15,083 - INFO - Progress: 40/100 symbols checked
+2026-02-27 15:45:14,598 - INFO - Progress: 50/100 symbols checked
+2026-02-27 15:45:41,817 - INFO - Progress: 60/100 symbols checked
+2026-02-27 15:46:07,231 - INFO - Progress: 70/100 symbols checked
+2026-02-27 15:46:48,929 - INFO - Progress: 80/100 symbols checked
+2026-02-27 15:47:19,132 - INFO - Progress: 90/100 symbols checked
+2026-02-27 15:48:29,525 - INFO - Progress: 100/100 symbols checked
+2026-02-27 15:48:30,527 - INFO - Cycle 7 complete. Waiting 300 seconds...
+2026-02-27 23:11:17,994 - INFO - Initialized AutoCryptoMonitor on bybit
+2026-02-27 23:11:18,009 - INFO - Auto-discovering symbols with quote currencies: USDT, USD, BTC, ETH
+2026-02-27 23:11:18,009 - INFO - Minimum 24h volume: $500,000
+2026-02-27 23:11:18,009 - INFO - Starting Auto Crypto Monitor...
+2026-02-27 23:11:18,025 - INFO - Exchange: bybit
+2026-02-27 23:11:18,025 - INFO - Quote currencies: USDT, USD, BTC, ETH
+2026-02-27 23:11:18,041 - INFO - Minimum 24h volume: $500,000
+2026-02-27 23:11:18,041 - INFO - Max symbols to monitor: 100
+2026-02-27 23:11:18,041 - INFO - Check interval: 300 seconds
+2026-02-27 23:11:18,055 - INFO - Discovering available cryptocurrencies...
+2026-02-27 23:11:18,078 - ERROR - Error discovering symbols: bybit GET https://api.bybit.com/v5/market/instruments-info?category=spot
+2026-02-27 23:11:18,093 - INFO - Loaded 100 symbols from cache
+2026-02-27 23:11:18,093 - INFO - === Cycle 1: Checking 100 symbols ===
+2026-02-27 23:11:30,313 - INFO - Progress: 10/100 symbols checked
+2026-02-27 23:11:43,451 - INFO - Progress: 20/100 symbols checked
+2026-02-27 23:11:56,599 - INFO - Progress: 30/100 symbols checked
+2026-02-27 23:12:09,773 - INFO - Progress: 40/100 symbols checked
+2026-02-27 23:12:22,970 - INFO - Progress: 50/100 symbols checked
+2026-02-27 23:12:36,135 - INFO - Progress: 60/100 symbols checked
+2026-02-27 23:12:49,266 - INFO - Progress: 70/100 symbols checked
+2026-02-27 23:13:02,381 - INFO - Progress: 80/100 symbols checked
+2026-02-27 23:13:42,126 - INFO - Progress: 90/100 symbols checked
+2026-02-27 23:14:16,023 - INFO - Progress: 100/100 symbols checked
+2026-02-27 23:14:17,030 - INFO - Cycle 1 complete. Waiting 300 seconds...
+2026-02-27 23:19:17,032 - INFO - === Cycle 2: Checking 100 symbols ===
+2026-02-27 23:19:40,721 - INFO - Progress: 10/100 symbols checked
+2026-02-27 23:20:02,693 - INFO - Progress: 20/100 symbols checked
+2026-02-27 23:20:26,599 - INFO - Progress: 30/100 symbols checked
+2026-02-27 23:20:49,000 - INFO - Progress: 40/100 symbols checked
+2026-02-27 23:21:09,729 - INFO - Progress: 50/100 symbols checked
+2026-02-27 23:21:27,679 - WARNING - ALERT: STEEM/USDT:USDT Alert!
+Price: $0.06
+Near SUPPORT: $0.06
+Condition: OVERSOLD
+RSI(4H): 100.00 | RSI(1D): 56.18
+2026-02-27 23:21:27,679 - INFO - STEEM/USDT:USDT - Price: $0.06, RSI(4H): 100.00, RSI(1D): 56.18
+2026-02-27 23:21:32,223 - INFO - Progress: 60/100 symbols checked
+2026-02-27 23:21:52,673 - INFO - Progress: 70/100 symbols checked
+2026-02-27 23:22:15,545 - INFO - Progress: 80/100 symbols checked
+2026-02-27 23:22:37,492 - INFO - Progress: 90/100 symbols checked
+2026-02-27 23:23:01,065 - INFO - Progress: 100/100 symbols checked
+2026-02-27 23:23:02,080 - INFO - Cycle 2 complete. Waiting 300 seconds...
+2026-02-27 23:28:02,082 - INFO - === Cycle 3: Checking 100 symbols ===
+2026-02-27 23:28:25,153 - INFO - Progress: 10/100 symbols checked
+2026-02-27 23:28:47,844 - INFO - Progress: 20/100 symbols checked
+2026-02-27 23:29:12,254 - INFO - Progress: 30/100 symbols checked
+2026-02-27 23:29:35,149 - INFO - Progress: 40/100 symbols checked
+2026-02-27 23:29:58,232 - INFO - Progress: 50/100 symbols checked
+2026-02-27 23:30:20,755 - INFO - Progress: 60/100 symbols checked
+2026-02-27 23:30:46,025 - INFO - Progress: 70/100 symbols checked
+2026-02-27 23:31:09,614 - INFO - Progress: 80/100 symbols checked
+2026-02-27 23:31:32,309 - INFO - Progress: 90/100 symbols checked
+2026-02-27 23:31:56,870 - INFO - Progress: 100/100 symbols checked
+2026-02-27 23:31:57,883 - INFO - Cycle 3 complete. Waiting 300 seconds...
+2026-02-27 23:36:57,884 - INFO - === Cycle 4: Checking 100 symbols ===
+2026-02-27 23:37:23,525 - INFO - Progress: 10/100 symbols checked
+2026-02-27 23:37:47,828 - INFO - Progress: 20/100 symbols checked
+2026-02-27 23:38:09,393 - INFO - Progress: 30/100 symbols checked
+2026-02-27 23:38:32,794 - INFO - Progress: 40/100 symbols checked
+2026-02-27 23:38:57,104 - INFO - Progress: 50/100 symbols checked
+2026-02-27 23:39:20,832 - INFO - Progress: 60/100 symbols checked
+2026-02-27 23:39:43,815 - INFO - Progress: 70/100 symbols checked
+2026-02-27 23:40:07,591 - INFO - Progress: 80/100 symbols checked
+2026-02-27 23:40:30,850 - INFO - Progress: 90/100 symbols checked
+2026-02-27 23:40:54,310 - INFO - Progress: 100/100 symbols checked
+2026-02-27 23:40:55,315 - INFO - Cycle 4 complete. Waiting 300 seconds...
+2026-02-27 23:43:54,079 - INFO - Initialized AutoCryptoMonitor on bybit
+2026-02-27 23:43:54,079 - INFO - Auto-discovering symbols with quote currencies: USDT, USD, BTC, ETH
+2026-02-27 23:43:54,079 - INFO - Minimum 24h volume: $1,000,000
+2026-02-27 23:43:54,079 - INFO - Discovering available cryptocurrencies...
+2026-02-27 23:44:02,157 - INFO - Fetching market data for volume filtering...
+2026-02-27 23:44:02,610 - INFO - Discovered 100 cryptocurrencies to monitor
+2026-02-27 23:44:02,610 - INFO - Top 10 by volume: BTC/USDT:USDT, ETH/USDT:USDT, SOL/USDT:USDT, XRP/USDT:USDT, POWER/USDT:USDT, PIPPIN/USDT:USDT, HYPE/USDT:USDT, SAHARA/USDT:USDT, DOGE/USDT:USDT, XAUT/USDT:USDT
+2026-02-27 23:44:02,610 - INFO - Saved 100 symbols to cache
+2026-02-27 23:44:29,224 - INFO - Initialized AutoCryptoMonitor on bybit
+2026-02-27 23:44:29,224 - INFO - Auto-discovering symbols with quote currencies: USDT, USD, BTC, ETH
+2026-02-27 23:44:29,224 - INFO - Minimum 24h volume: $1,000,000
+2026-02-27 23:44:29,224 - INFO - Starting Auto Crypto Monitor...
+2026-02-27 23:44:29,224 - INFO - Exchange: bybit
+2026-02-27 23:44:29,224 - INFO - Quote currencies: USDT, USD, BTC, ETH
+2026-02-27 23:44:29,224 - INFO - Minimum 24h volume: $1,000,000
+2026-02-27 23:44:29,224 - INFO - Max symbols to monitor: 100
+2026-02-27 23:44:29,240 - INFO - Check interval: 300 seconds
+2026-02-27 23:44:29,240 - INFO - Discovering available cryptocurrencies...
+2026-02-27 23:44:37,989 - INFO - Fetching market data for volume filtering...
+2026-02-27 23:44:38,567 - INFO - Discovered 100 cryptocurrencies to monitor
+2026-02-27 23:44:38,567 - INFO - Top 10 by volume: BTC/USDT:USDT, ETH/USDT:USDT, SOL/USDT:USDT, XRP/USDT:USDT, POWER/USDT:USDT, PIPPIN/USDT:USDT, HYPE/USDT:USDT, SAHARA/USDT:USDT, DOGE/USDT:USDT, XAUT/USDT:USDT
+2026-02-27 23:44:38,567 - INFO - Saved 100 symbols to cache
+2026-02-27 23:44:38,567 - INFO - === Cycle 1: Checking 100 symbols ===
+2026-02-27 23:45:01,584 - INFO - Progress: 10/100 symbols checked
+2026-02-27 23:45:24,882 - INFO - Progress: 20/100 symbols checked
+2026-02-27 23:45:47,244 - INFO - Progress: 30/100 symbols checked
+2026-02-27 23:45:55,316 - INFO - === Cycle 5: Checking 100 symbols ===
+2026-02-27 23:46:12,780 - INFO - Progress: 40/100 symbols checked
+2026-02-27 23:46:19,312 - INFO - Progress: 10/100 symbols checked
+2026-02-27 23:46:36,334 - INFO - Progress: 50/100 symbols checked
+2026-02-27 23:46:44,712 - INFO - Progress: 20/100 symbols checked
+2026-02-27 23:46:59,465 - INFO - Progress: 60/100 symbols checked
+2026-02-27 23:47:08,077 - INFO - Progress: 30/100 symbols checked
+2026-02-27 23:47:23,784 - WARNING - ALERT: STEEM/USDT:USDT Alert!
+Price: $0.06
+Near SUPPORT: $0.06
+Condition: OVERSOLD
+RSI(4H): 100.00 | RSI(1D): 55.87
+2026-02-27 23:47:23,784 - INFO - STEEM/USDT:USDT - Price: $0.06, RSI(4H): 100.00, RSI(1D): 55.87
+2026-02-27 23:47:23,784 - INFO - Progress: 70/100 symbols checked
+2026-02-27 23:47:31,593 - INFO - Progress: 40/100 symbols checked
+2026-02-27 23:47:46,977 - INFO - Progress: 80/100 symbols checked
+2026-02-27 23:47:53,667 - INFO - Progress: 50/100 symbols checked
+2026-02-27 23:48:09,677 - INFO - Progress: 90/100 symbols checked
+2026-02-27 23:48:16,942 - INFO - Progress: 60/100 symbols checked
+2026-02-27 23:48:34,025 - INFO - Progress: 100/100 symbols checked
+2026-02-27 23:48:35,039 - INFO - Cycle 1 complete. Waiting 300 seconds...
+2026-02-27 23:48:41,167 - INFO - Progress: 70/100 symbols checked
+2026-02-27 23:49:03,856 - INFO - Progress: 80/100 symbols checked
+2026-02-27 23:49:30,139 - INFO - Progress: 90/100 symbols checked
+2026-02-27 23:49:55,187 - INFO - Progress: 100/100 symbols checked
+2026-02-27 23:49:56,193 - INFO - Cycle 5 complete. Waiting 300 seconds...
+2026-02-27 23:53:35,040 - INFO - === Cycle 2: Checking 100 symbols ===
+2026-02-27 23:53:58,534 - INFO - Progress: 10/100 symbols checked
+2026-02-27 23:54:20,207 - INFO - Progress: 20/100 symbols checked
+2026-02-27 23:54:42,971 - INFO - Progress: 30/100 symbols checked
+2026-02-27 23:54:56,195 - INFO - === Cycle 6: Checking 100 symbols ===
+2026-02-27 23:55:07,788 - INFO - Progress: 40/100 symbols checked
+2026-02-27 23:55:20,277 - INFO - Progress: 10/100 symbols checked
+2026-02-27 23:55:30,518 - INFO - Progress: 50/100 symbols checked
+2026-02-27 23:55:43,846 - INFO - Progress: 20/100 symbols checked
+2026-02-27 23:55:53,575 - INFO - Progress: 60/100 symbols checked
+2026-02-27 23:56:06,975 - INFO - Progress: 30/100 symbols checked
+2026-02-27 23:56:16,989 - INFO - Progress: 70/100 symbols checked
+2026-02-27 23:56:29,249 - INFO - Progress: 40/100 symbols checked
+2026-02-27 23:56:40,461 - INFO - Progress: 80/100 symbols checked
+2026-02-27 23:56:53,112 - INFO - Progress: 50/100 symbols checked
+2026-02-27 23:57:04,795 - INFO - Progress: 90/100 symbols checked
+2026-02-27 23:57:17,422 - INFO - Progress: 60/100 symbols checked
+2026-02-27 23:57:27,482 - INFO - Progress: 100/100 symbols checked
+2026-02-27 23:57:28,484 - INFO - Cycle 2 complete. Waiting 300 seconds...
+2026-02-27 23:57:40,899 - INFO - Progress: 70/100 symbols checked
+2026-02-27 23:58:05,220 - INFO - Progress: 80/100 symbols checked
+2026-02-27 23:58:28,855 - INFO - Progress: 90/100 symbols checked
+2026-02-27 23:58:51,019 - INFO - Progress: 100/100 symbols checked
+2026-02-27 23:58:52,021 - INFO - Cycle 6 complete. Waiting 300 seconds...
+2026-02-28 00:02:28,486 - INFO - === Cycle 3: Checking 100 symbols ===
+2026-02-28 00:02:52,542 - INFO - Progress: 10/100 symbols checked
+2026-02-28 00:03:16,251 - INFO - Progress: 20/100 symbols checked
+2026-02-28 00:03:40,146 - INFO - Progress: 30/100 symbols checked
+2026-02-28 00:03:52,023 - INFO - === Cycle 7: Checking 100 symbols ===
+2026-02-28 00:04:05,292 - INFO - Progress: 40/100 symbols checked
+2026-02-28 00:04:18,402 - INFO - Progress: 10/100 symbols checked
+2026-02-28 00:04:31,508 - INFO - Progress: 50/100 symbols checked
+2026-02-28 00:04:42,047 - INFO - Progress: 20/100 symbols checked
+2026-02-28 00:04:56,883 - INFO - Progress: 60/100 symbols checked
+2026-02-28 00:05:07,219 - INFO - Progress: 30/100 symbols checked
+2026-02-28 00:05:20,462 - INFO - Progress: 70/100 symbols checked
+2026-02-28 00:05:31,849 - INFO - Progress: 40/100 symbols checked
+2026-02-28 00:05:43,228 - INFO - Progress: 80/100 symbols checked
+2026-02-28 00:05:52,982 - INFO - Progress: 50/100 symbols checked
+2026-02-28 00:06:05,780 - INFO - Progress: 90/100 symbols checked
+2026-02-28 00:06:16,495 - INFO - Progress: 60/100 symbols checked
+2026-02-28 00:06:29,294 - INFO - Progress: 100/100 symbols checked
+2026-02-28 00:06:30,295 - INFO - Cycle 3 complete. Waiting 300 seconds...
+2026-02-28 00:06:39,567 - INFO - Progress: 70/100 symbols checked
+2026-02-28 00:07:03,607 - INFO - Progress: 80/100 symbols checked
+2026-02-28 00:07:29,756 - INFO - Progress: 90/100 symbols checked
+2026-02-28 00:07:53,681 - INFO - Progress: 100/100 symbols checked
+2026-02-28 00:07:54,693 - INFO - Cycle 7 complete. Waiting 300 seconds...
+2026-02-28 00:11:30,297 - INFO - === Cycle 4: Checking 100 symbols ===
+2026-02-28 00:11:58,963 - INFO - Progress: 10/100 symbols checked
+2026-02-28 00:12:24,190 - INFO - Progress: 20/100 symbols checked
+2026-02-28 00:12:52,976 - INFO - Progress: 30/100 symbols checked
+2026-02-28 00:12:54,694 - INFO - === Cycle 8: Checking 100 symbols ===
+2026-02-28 00:13:20,114 - INFO - Progress: 40/100 symbols checked
+2026-02-28 00:13:22,850 - INFO - Progress: 10/100 symbols checked
+2026-02-28 00:13:49,962 - INFO - Progress: 50/100 symbols checked
+2026-02-28 00:13:56,121 - INFO - Progress: 20/100 symbols checked
+2026-02-28 00:14:32,661 - INFO - Progress: 60/100 symbols checked
+2026-02-28 00:14:34,643 - INFO - Progress: 30/100 symbols checked
+2026-02-28 00:14:55,758 - INFO - Progress: 70/100 symbols checked
+2026-02-28 00:14:56,792 - INFO - Progress: 40/100 symbols checked
+2026-02-28 00:15:18,041 - INFO - Progress: 80/100 symbols checked
+2026-02-28 00:15:18,791 - INFO - Progress: 50/100 symbols checked
+2026-02-28 00:15:41,041 - INFO - Progress: 90/100 symbols checked
+2026-02-28 00:15:41,385 - INFO - Progress: 60/100 symbols checked
+2026-02-28 00:16:02,662 - INFO - Progress: 100/100 symbols checked
+2026-02-28 00:16:03,444 - INFO - Progress: 70/100 symbols checked
+2026-02-28 00:16:03,684 - INFO - Cycle 4 complete. Waiting 300 seconds...
+2026-02-28 00:16:34,439 - INFO - Progress: 80/100 symbols checked
+2026-02-28 00:17:13,855 - INFO - Progress: 90/100 symbols checked
+2026-02-28 00:17:49,896 - INFO - Progress: 100/100 symbols checked
+2026-02-28 00:17:50,897 - INFO - Cycle 8 complete. Waiting 300 seconds...
+2026-02-28 00:21:03,687 - INFO - === Cycle 5: Checking 100 symbols ===
+2026-02-28 00:21:39,739 - INFO - Progress: 10/100 symbols checked
+2026-02-28 00:22:03,957 - INFO - Progress: 20/100 symbols checked
+2026-02-28 00:22:27,803 - INFO - Progress: 30/100 symbols checked
+2026-02-28 00:22:49,644 - INFO - Progress: 40/100 symbols checked
+2026-02-28 00:22:50,898 - INFO - === Cycle 9: Checking 100 symbols ===
+2026-02-28 00:23:13,780 - INFO - Progress: 50/100 symbols checked
+2026-02-28 00:23:14,548 - INFO - Progress: 10/100 symbols checked
+2026-02-28 10:56:36,733 - INFO - Initialized AutoCryptoMonitor on bybit
+2026-02-28 10:56:36,841 - INFO - Auto-discovering symbols with quote currencies: USDT, USD, BTC, ETH
+2026-02-28 10:56:36,843 - INFO - Minimum 24h volume: $1,000,000
+2026-02-28 10:56:36,845 - INFO - Starting Auto Crypto Monitor...
+2026-02-28 10:56:36,846 - INFO - Exchange: bybit
+2026-02-28 10:56:36,847 - INFO - Quote currencies: USDT, USD, BTC, ETH
+2026-02-28 10:56:36,847 - INFO - Minimum 24h volume: $1,000,000
+2026-02-28 10:56:36,848 - INFO - Max symbols to monitor: 100
+2026-02-28 10:56:36,849 - INFO - Check interval: 300 seconds
+2026-02-28 10:56:36,850 - INFO - Discovering available cryptocurrencies...
+2026-02-28 10:56:45,383 - INFO - Fetching market data for volume filtering...
+2026-02-28 10:56:46,582 - INFO - Discovered 100 cryptocurrencies to monitor
+2026-02-28 10:56:46,583 - INFO - Top 10 by volume: BTC/USDT:USDT, ETH/USDT:USDT, SOL/USDT:USDT, XRP/USDT:USDT, SAHARA/USDT:USDT, DOGE/USDT:USDT, PIPPIN/USDT:USDT, POWER/USDT:USDT, XAUT/USDT:USDT, HYPE/USDT:USDT
+2026-02-28 10:56:46,588 - INFO - Saved 100 symbols to cache
+2026-02-28 10:56:46,589 - INFO - === Cycle 1: Checking 100 symbols ===
+2026-02-28 10:57:11,134 - INFO - Progress: 10/100 symbols checked
+2026-02-28 10:57:36,689 - INFO - Progress: 20/100 symbols checked
+2026-02-28 10:57:56,166 - INFO - Progress: 30/100 symbols checked
+2026-02-28 10:58:09,221 - INFO - Progress: 40/100 symbols checked
+2026-02-28 10:58:22,292 - INFO - Progress: 50/100 symbols checked
+2026-02-28 10:58:35,349 - INFO - Progress: 60/100 symbols checked
+2026-02-28 10:58:48,412 - INFO - Progress: 70/100 symbols checked
+2026-02-28 10:59:01,485 - INFO - Progress: 80/100 symbols checked
+2026-02-28 10:59:14,546 - INFO - Progress: 90/100 symbols checked
+2026-02-28 10:59:27,603 - INFO - Progress: 100/100 symbols checked
+2026-02-28 10:59:28,604 - INFO - Cycle 1 complete. Waiting 300 seconds...
+2026-02-28 11:04:28,606 - INFO - === Cycle 2: Checking 100 symbols ===
+2026-02-28 11:04:52,455 - INFO - Progress: 10/100 symbols checked
+2026-02-28 11:05:15,919 - INFO - Progress: 20/100 symbols checked
+2026-02-28 11:05:40,609 - INFO - Progress: 30/100 symbols checked
+2026-02-28 11:06:05,678 - INFO - Progress: 40/100 symbols checked
+2026-02-28 11:06:30,588 - INFO - Progress: 50/100 symbols checked
+2026-02-28 11:06:56,072 - INFO - Progress: 60/100 symbols checked
+2026-02-28 11:07:21,193 - INFO - Progress: 70/100 symbols checked
+2026-02-28 11:07:44,600 - INFO - Progress: 80/100 symbols checked
+2026-02-28 11:08:08,679 - INFO - Progress: 90/100 symbols checked
+2026-02-28 11:08:35,914 - INFO - Progress: 100/100 symbols checked
+2026-02-28 11:08:36,944 - INFO - Cycle 2 complete. Waiting 300 seconds...
+2026-02-28 11:13:37,020 - INFO - === Cycle 3: Checking 100 symbols ===
+2026-02-28 11:14:03,871 - INFO - Progress: 10/100 symbols checked
+2026-02-28 11:14:29,235 - INFO - Progress: 20/100 symbols checked
+2026-02-28 11:14:56,810 - INFO - Progress: 30/100 symbols checked
+2026-02-28 11:15:22,143 - INFO - Progress: 40/100 symbols checked
+2026-02-28 11:15:47,626 - INFO - Progress: 50/100 symbols checked
+2026-02-28 11:16:11,439 - INFO - Progress: 60/100 symbols checked
+2026-02-28 11:16:36,541 - INFO - Progress: 70/100 symbols checked
+2026-02-28 11:17:03,747 - INFO - Progress: 80/100 symbols checked
+2026-02-28 11:17:29,996 - INFO - Progress: 90/100 symbols checked
+2026-02-28 11:17:54,311 - INFO - Progress: 100/100 symbols checked
+2026-02-28 11:17:55,312 - INFO - Cycle 3 complete. Waiting 300 seconds...
+2026-02-28 11:22:04,611 - INFO - Initialized AutoCryptoMonitor on bybit
+2026-02-28 11:22:04,611 - INFO - Auto-discovering symbols with quote currencies: USDT, USD, BTC, ETH
+2026-02-28 11:22:04,616 - INFO - Minimum 24h volume: $1,000,000
+2026-02-28 11:22:04,619 - INFO - Starting Auto Crypto Monitor...
+2026-02-28 11:22:04,621 - INFO - Exchange: bybit
+2026-02-28 11:22:04,622 - INFO - Quote currencies: USDT, USD, BTC, ETH
+2026-02-28 11:22:04,624 - INFO - Minimum 24h volume: $1,000,000
+2026-02-28 11:22:04,625 - INFO - Max symbols to monitor: 100
+2026-02-28 11:22:04,628 - INFO - Check interval: 60 seconds
+2026-02-28 11:22:04,630 - INFO - Discovering available cryptocurrencies...
+2026-02-28 11:22:14,760 - INFO - Fetching market data for volume filtering...
+2026-02-28 11:22:16,168 - INFO - Discovered 100 cryptocurrencies to monitor
+2026-02-28 11:22:16,168 - INFO - Top 10 by volume: BTC/USDT:USDT, ETH/USDT:USDT, SOL/USDT:USDT, XRP/USDT:USDT, SAHARA/USDT:USDT, DOGE/USDT:USDT, XAUT/USDT:USDT, PIPPIN/USDT:USDT, POWER/USDT:USDT, HYPE/USDT:USDT
+2026-02-28 11:22:16,175 - INFO - Saved 100 symbols to cache
+2026-02-28 11:22:16,177 - INFO - === Cycle 1: Checking 100 symbols ===
+2026-02-28 11:24:58,552 - INFO - Initialized AutoCryptoMonitor on bybit
+2026-02-28 11:24:58,553 - INFO - Auto-discovering symbols with quote currencies: USDT, USD, BTC, ETH
+2026-02-28 11:24:58,560 - INFO - Minimum 24h volume: $500,000
+2026-02-28 11:24:58,562 - INFO - Starting Auto Crypto Monitor...
+2026-02-28 11:24:58,565 - INFO - Exchange: bybit
+2026-02-28 11:24:58,566 - INFO - Quote currencies: USDT, USD, BTC, ETH
+2026-02-28 11:24:58,567 - INFO - Minimum 24h volume: $500,000
+2026-02-28 11:24:58,568 - INFO - Max symbols to monitor: 100
+2026-02-28 11:24:58,569 - INFO - Check interval: 60 seconds
+2026-02-28 11:24:58,571 - INFO - Discovering available cryptocurrencies...
+2026-02-28 11:25:07,618 - INFO - Fetching market data for volume filtering...
+2026-02-28 11:25:08,797 - INFO - Discovered 100 cryptocurrencies to monitor
+2026-02-28 11:25:08,797 - INFO - Top 10 by volume: BTC/USDT:USDT, ETH/USDT:USDT, SOL/USDT:USDT, XRP/USDT:USDT, SAHARA/USDT:USDT, DOGE/USDT:USDT, XAUT/USDT:USDT, PIPPIN/USDT:USDT, POWER/USDT:USDT, HYPE/USDT:USDT
+2026-02-28 11:25:08,804 - INFO - Saved 100 symbols to cache
+2026-02-28 11:25:08,806 - INFO - === Cycle 1: Checking 100 symbols ===
+2026-02-28 11:25:34,342 - INFO - Progress: 10/100 symbols checked
+2026-02-28 11:26:03,302 - INFO - Progress: 20/100 symbols checked
+2026-02-28 11:26:31,804 - INFO - Progress: 30/100 symbols checked
+2026-02-28 11:26:58,535 - INFO - Progress: 40/100 symbols checked
+2026-02-28 11:27:24,322 - INFO - Progress: 50/100 symbols checked
+2026-02-28 11:27:48,956 - INFO - Progress: 60/100 symbols checked
+2026-02-28 11:28:14,731 - INFO - Progress: 70/100 symbols checked
+2026-02-28 11:28:39,830 - INFO - Progress: 80/100 symbols checked
+2026-02-28 11:29:06,653 - INFO - Progress: 90/100 symbols checked
+2026-02-28 11:29:32,363 - INFO - Progress: 100/100 symbols checked
+2026-02-28 11:29:33,364 - INFO - Cycle 1 complete. Waiting 60 seconds...
+2026-02-28 11:30:33,366 - INFO - === Cycle 2: Checking 100 symbols ===
+2026-02-28 11:30:58,607 - INFO - Progress: 10/100 symbols checked
+2026-02-28 11:31:25,881 - INFO - Progress: 20/100 symbols checked
+2026-02-28 11:31:55,458 - INFO - Progress: 30/100 symbols checked
+2026-02-28 11:32:21,329 - INFO - Progress: 40/100 symbols checked
+2026-02-28 11:32:47,962 - INFO - Progress: 50/100 symbols checked
+2026-02-28 11:33:15,913 - INFO - Progress: 60/100 symbols checked
+2026-02-28 11:33:43,832 - INFO - Progress: 70/100 symbols checked
+2026-02-28 11:34:10,160 - INFO - Progress: 80/100 symbols checked
+2026-02-28 11:34:35,185 - INFO - Progress: 90/100 symbols checked
+2026-02-28 11:35:00,374 - INFO - Progress: 100/100 symbols checked
+2026-02-28 11:35:01,375 - INFO - Cycle 2 complete. Waiting 60 seconds...
+2026-02-28 11:36:01,377 - INFO - === Cycle 3: Checking 100 symbols ===
+2026-02-28 11:36:26,492 - INFO - Progress: 10/100 symbols checked
+2026-02-28 11:36:51,985 - INFO - Progress: 20/100 symbols checked
+2026-02-28 11:37:15,620 - INFO - Progress: 30/100 symbols checked
+2026-02-28 11:37:44,501 - INFO - Progress: 40/100 symbols checked
+2026-02-28 11:38:26,109 - INFO - Progress: 50/100 symbols checked
+2026-02-28 11:38:51,356 - INFO - Progress: 60/100 symbols checked
+2026-02-28 11:39:15,649 - INFO - Progress: 70/100 symbols checked
+2026-02-28 11:39:39,925 - INFO - Progress: 80/100 symbols checked
+2026-02-28 11:40:06,964 - INFO - Progress: 90/100 symbols checked
+2026-02-28 11:40:31,805 - INFO - Progress: 100/100 symbols checked
+2026-02-28 11:40:32,807 - INFO - Cycle 3 complete. Waiting 60 seconds...
+2026-02-28 11:41:32,808 - INFO - === Cycle 4: Checking 100 symbols ===
+2026-02-28 11:41:35,732 - INFO - Initialized AutoCryptoMonitor on bybit
+2026-02-28 11:41:35,732 - INFO - Auto-discovering symbols with quote currencies: USDT, USD, BTC, ETH
+2026-02-28 11:41:35,733 - INFO - Minimum 24h volume: $500,000
+2026-02-28 11:41:35,735 - INFO - Starting Auto Crypto Monitor...
+2026-02-28 11:41:35,736 - INFO - Exchange: bybit
+2026-02-28 11:41:35,737 - INFO - Quote currencies: USDT, USD, BTC, ETH
+2026-02-28 11:41:35,738 - INFO - Minimum 24h volume: $500,000
+2026-02-28 11:41:35,738 - INFO - Max symbols to monitor: 100
+2026-02-28 11:41:35,739 - INFO - Check interval: 60 seconds
+2026-02-28 11:41:35,739 - INFO - Discovering available cryptocurrencies...
+2026-02-28 11:41:43,431 - INFO - Fetching market data for volume filtering...
+2026-02-28 11:41:44,632 - INFO - Discovered 100 cryptocurrencies to monitor
+2026-02-28 11:41:44,632 - INFO - Top 10 by volume: BTC/USDT:USDT, ETH/USDT:USDT, SOL/USDT:USDT, XRP/USDT:USDT, SAHARA/USDT:USDT, XAUT/USDT:USDT, DOGE/USDT:USDT, PIPPIN/USDT:USDT, HYPE/USDT:USDT, POWER/USDT:USDT
+2026-02-28 11:41:44,638 - INFO - Saved 100 symbols to cache
+2026-02-28 11:41:44,639 - INFO - === Cycle 1: Checking 100 symbols ===
+2026-02-28 11:41:58,271 - INFO - Progress: 10/100 symbols checked
+2026-02-28 11:42:05,860 - INFO - Progress: 10/100 symbols checked
+2026-02-28 11:42:20,904 - INFO - Progress: 20/100 symbols checked
+2026-02-28 11:42:29,418 - INFO - Progress: 20/100 symbols checked
+2026-02-28 11:42:48,140 - INFO - Progress: 30/100 symbols checked
+2026-02-28 11:42:53,352 - INFO - Progress: 30/100 symbols checked
+2026-02-28 11:43:10,340 - INFO - Progress: 40/100 symbols checked
+2026-02-28 11:43:15,549 - INFO - Progress: 40/100 symbols checked
+2026-02-28 11:43:35,855 - INFO - Progress: 50/100 symbols checked
+2026-02-28 11:43:38,846 - INFO - Progress: 50/100 symbols checked
+2026-02-28 11:43:59,233 - INFO - Progress: 60/100 symbols checked
+2026-02-28 11:44:00,930 - INFO - Progress: 60/100 symbols checked
+2026-02-28 11:44:23,445 - INFO - Progress: 70/100 symbols checked
+2026-02-28 11:44:25,217 - INFO - Progress: 70/100 symbols checked
+2026-02-28 11:44:46,367 - INFO - Progress: 80/100 symbols checked
+2026-02-28 11:44:47,206 - INFO - Progress: 80/100 symbols checked
+2026-02-28 11:45:09,116 - INFO - Progress: 90/100 symbols checked
+2026-02-28 11:45:09,709 - INFO - Progress: 90/100 symbols checked
+2026-02-28 11:45:34,483 - INFO - Progress: 100/100 symbols checked
+2026-02-28 11:45:34,974 - INFO - Progress: 100/100 symbols checked
+2026-02-28 11:45:35,484 - INFO - Cycle 1 complete. Waiting 60 seconds...
+2026-02-28 11:45:35,975 - INFO - Cycle 4 complete. Waiting 60 seconds...
+2026-02-28 11:48:00,728 - INFO - Initialized CryptoMonitor for ['BTC/USDT', 'ETH/USDT'] on bybit
+2026-02-28 11:48:00,730 - INFO - Checking BTC/USDT...
+2026-02-28 11:48:00,740 - ERROR - Error fetching data for BTC/USDT 1w: bybit GET https://api.bybit.com/v5/market/instruments-info?category=spot
+2026-02-28 11:48:00,835 - ERROR - Error fetching data for BTC/USDT 1M: bybit GET https://api.bybit.com/v5/market/instruments-info?category=spot
+2026-02-28 11:48:00,936 - ERROR - Error fetching data for BTC/USDT 4h: bybit GET https://api.bybit.com/v5/market/instruments-info?category=spot
+2026-02-28 11:48:01,038 - ERROR - Error fetching data for BTC/USDT 1d: bybit GET https://api.bybit.com/v5/market/instruments-info?category=spot
+2026-02-28 11:48:01,039 - WARNING - Could not fetch all data for BTC/USDT
+2026-02-28 11:48:01,044 - INFO - Checking ETH/USDT...
+2026-02-28 11:48:01,140 - ERROR - Error fetching data for ETH/USDT 1w: bybit GET https://api.bybit.com/v5/market/instruments-info?category=spot
+2026-02-28 11:48:01,240 - ERROR - Error fetching data for ETH/USDT 1M: bybit GET https://api.bybit.com/v5/market/instruments-info?category=spot
+2026-02-28 11:48:01,338 - ERROR - Error fetching data for ETH/USDT 4h: bybit GET https://api.bybit.com/v5/market/instruments-info?category=spot
+2026-02-28 11:48:01,441 - ERROR - Error fetching data for ETH/USDT 1d: bybit GET https://api.bybit.com/v5/market/instruments-info?category=spot
+2026-02-28 11:48:01,442 - WARNING - Could not fetch all data for ETH/USDT
+2026-02-28 11:48:43,467 - INFO - Initialized CryptoMonitor for ['BTC/USDT', 'ETH/USDT'] on bybit
+2026-02-28 11:48:43,468 - INFO - Checking BTC/USDT...
+2026-02-28 11:48:55,562 - INFO - BTC/USDT - Price: $63670.90, RSI(4H): 18.12, RSI(1D): 32.12
+2026-02-28 11:48:55,562 - INFO - BTC/USDT - No alerts at this time
+2026-02-28 11:48:55,565 - INFO - Checking ETH/USDT...
+2026-02-28 11:48:57,263 - INFO - ETH/USDT - Price: $1857.81, RSI(4H): 14.99, RSI(1D): 35.75
+2026-02-28 11:48:57,264 - INFO - ETH/USDT - No alerts at this time
+2026-02-28 11:49:45,078 - INFO - Initialized CryptoMonitor for ['BTC/USDT', 'ETH/USDT', ''] on bybit
+2026-02-28 11:49:45,095 - INFO - Checking BTC/USDT...
+2026-02-28 11:49:54,712 - INFO - BTC/USDT - Price: $63640.00, RSI(4H): 17.96, RSI(1D): 32.01
+2026-02-28 11:49:54,712 - INFO - BTC/USDT - No alerts at this time
+2026-02-28 11:49:54,714 - INFO - Checking ETH/USDT...
+2026-02-28 11:49:56,169 - INFO - ETH/USDT - Price: $1856.75, RSI(4H): 14.87, RSI(1D): 35.66
+2026-02-28 11:49:56,169 - INFO - ETH/USDT - No alerts at this time
+2026-02-28 11:49:56,171 - INFO - Checking ...
+2026-02-28 11:49:56,173 - ERROR - Error fetching data for  1w: bybit does not have market symbol 
+2026-02-28 11:49:56,174 - ERROR - Error fetching data for  1M: bybit does not have market symbol 
+2026-02-28 11:49:56,174 - ERROR - Error fetching data for  4h: bybit does not have market symbol 
+2026-02-28 11:49:56,175 - ERROR - Error fetching data for  1d: bybit does not have market symbol 
+2026-02-28 11:49:56,176 - WARNING - Could not fetch all data for 
+2026-02-28 11:50:17,592 - INFO - Initialized CryptoMonitor for ['BTC/USDT', 'ETH/USDT'] on bybit
+2026-02-28 11:50:17,607 - INFO - Checking BTC/USDT...
+2026-02-28 11:50:27,800 - INFO - BTC/USDT - Price: $63579.90, RSI(4H): 17.68, RSI(1D): 31.81
+2026-02-28 11:50:27,801 - INFO - BTC/USDT - No alerts at this time
+2026-02-28 11:50:27,806 - INFO - Checking ETH/USDT...
+2026-02-28 11:50:29,181 - INFO - ETH/USDT - Price: $1855.97, RSI(4H): 14.78, RSI(1D): 35.56
+2026-02-28 11:50:29,181 - INFO - ETH/USDT - No alerts at this time
+2026-02-28 11:51:25,991 - INFO - Initialized AutoCryptoMonitor on bybit
+2026-02-28 11:51:25,995 - INFO - Auto-discovering symbols with quote currencies: USDT, USD, BTC, ETH
+2026-02-28 11:51:25,998 - INFO - Minimum 24h volume: $500,000
+2026-02-28 11:51:26,001 - INFO - Starting Auto Crypto Monitor...
+2026-02-28 11:51:26,002 - INFO - Exchange: bybit
+2026-02-28 11:51:26,004 - INFO - Quote currencies: USDT, USD, BTC, ETH
+2026-02-28 11:51:26,005 - INFO - Minimum 24h volume: $500,000
+2026-02-28 11:51:26,006 - INFO - Max symbols to monitor: 100
+2026-02-28 11:51:26,007 - INFO - Check interval: 60 seconds
+2026-02-28 11:51:26,009 - INFO - Discovering available cryptocurrencies...
+2026-02-28 11:51:36,633 - INFO - Fetching market data for volume filtering...
+2026-02-28 11:51:37,662 - INFO - Discovered 100 cryptocurrencies to monitor
+2026-02-28 11:51:37,662 - INFO - Top 10 by volume: BTC/USDT:USDT, ETH/USDT:USDT, SOL/USDT:USDT, XRP/USDT:USDT, SAHARA/USDT:USDT, XAUT/USDT:USDT, DOGE/USDT:USDT, PIPPIN/USDT:USDT, HYPE/USDT:USDT, POWER/USDT:USDT
+2026-02-28 11:51:37,669 - INFO - Saved 100 symbols to cache
+2026-02-28 11:51:37,670 - INFO - === Cycle 1: Checking 100 symbols ===
+2026-02-28 11:51:39,283 - WARNING - ALERT: BTC/USDT:USDT Alert!
+Price: $63466.60
+Near RESISTANCE: $64943.50
+Condition: OVERBOUGHT
+RSI(4H): 17.10 | RSI(1D): 31.55
+2026-02-28 11:51:39,285 - INFO - BTC/USDT:USDT - Price: $63466.60, RSI(4H): 17.10, RSI(1D): 31.55
+2026-02-28 11:52:01,511 - INFO - Progress: 10/100 symbols checked
+2026-02-28 11:52:25,426 - INFO - Progress: 20/100 symbols checked
+2026-02-28 11:52:30,737 - WARNING - ALERT: BCH/USDT:USDT Alert!
+Price: $444.00
+Near SUPPORT: $443.10
+Condition: OVERBOUGHT
+RSI(4H): 11.52 | RSI(1D): 16.26
+2026-02-28 11:52:30,739 - INFO - BCH/USDT:USDT - Price: $444.00, RSI(4H): 11.52, RSI(1D): 16.26
+2026-02-28 11:52:45,797 - WARNING - ALERT: AVAX/USDT:USDT Alert!
+Price: $8.48
+Near SUPPORT: $8.62
+Condition: OVERBOUGHT
+RSI(4H): 16.86 | RSI(1D): 38.34
+2026-02-28 11:52:45,799 - INFO - AVAX/USDT:USDT - Price: $8.48, RSI(4H): 16.86, RSI(1D): 38.34
+2026-02-28 11:52:50,961 - INFO - Progress: 30/100 symbols checked
+2026-02-28 11:53:16,946 - INFO - Progress: 40/100 symbols checked
+2026-02-28 11:53:42,197 - INFO - Progress: 50/100 symbols checked
+2026-02-28 11:54:03,556 - WARNING - ALERT: ATOM/USDT:USDT Alert!
+Price: $1.78
+Near SUPPORT: $1.83
+Condition: OVERBOUGHT
+RSI(4H): 15.73 | RSI(1D): 17.45
+2026-02-28 11:54:03,557 - INFO - ATOM/USDT:USDT - Price: $1.78, RSI(4H): 15.73, RSI(1D): 17.45
+2026-02-28 11:54:08,462 - WARNING - ALERT: ONDO/USDT:USDT Alert!
+Price: $0.24
+Near SUPPORT: $0.24
+Condition: OVERBOUGHT
+RSI(4H): 17.52 | RSI(1D): 34.70
+2026-02-28 11:54:08,464 - INFO - ONDO/USDT:USDT - Price: $0.24, RSI(4H): 17.52, RSI(1D): 34.70
+2026-02-28 11:54:10,936 - INFO - Progress: 60/100 symbols checked
+2026-02-28 11:54:35,200 - INFO - Progress: 70/100 symbols checked
+2026-02-28 11:55:00,444 - INFO - Progress: 80/100 symbols checked
+2026-02-28 11:55:24,369 - INFO - Progress: 90/100 symbols checked
+2026-02-28 11:56:09,054 - INFO - Progress: 100/100 symbols checked
+2026-02-28 11:56:10,055 - INFO - Cycle 1 complete. Waiting 60 seconds...
+2026-02-28 11:57:10,056 - INFO - === Cycle 2: Checking 100 symbols ===
+2026-02-28 11:57:32,884 - INFO - Progress: 10/100 symbols checked
+2026-02-28 11:57:49,624 - WARNING - ALERT: LINK/USDT:USDT Alert!
+Price: $8.26
+Near SUPPORT: $8.02
+Condition: OVERBOUGHT
+RSI(4H): 13.87 | RSI(1D): 37.67
+2026-02-28 11:57:49,625 - INFO - LINK/USDT:USDT - Price: $8.26, RSI(4H): 13.87, RSI(1D): 37.67
+2026-02-28 11:57:57,820 - INFO - Progress: 20/100 symbols checked
+2026-02-28 11:58:22,736 - INFO - Progress: 30/100 symbols checked
+2026-02-28 11:58:49,123 - INFO - Progress: 40/100 symbols checked
+2026-02-28 11:59:14,661 - INFO - Progress: 50/100 symbols checked
+2026-02-28 11:59:39,198 - INFO - Progress: 60/100 symbols checked
+2026-02-28 12:00:03,822 - INFO - Progress: 70/100 symbols checked
+2026-02-28 12:00:28,439 - INFO - Progress: 80/100 symbols checked
+2026-02-28 12:00:54,902 - INFO - Progress: 90/100 symbols checked
+2026-02-28 12:01:17,378 - INFO - Progress: 100/100 symbols checked
+2026-02-28 12:01:18,380 - INFO - Cycle 2 complete. Waiting 60 seconds...
+2026-02-28 12:02:18,381 - INFO - === Cycle 3: Checking 100 symbols ===
+2026-02-28 12:03:06,885 - INFO - Progress: 10/100 symbols checked
+2026-02-28 12:03:28,740 - INFO - Progress: 20/100 symbols checked
+2026-02-28 12:03:56,497 - INFO - Progress: 30/100 symbols checked
+2026-02-28 12:04:21,514 - INFO - Progress: 40/100 symbols checked
+2026-02-28 12:04:47,574 - INFO - Progress: 50/100 symbols checked
+2026-02-28 12:05:12,066 - INFO - Progress: 60/100 symbols checked
+2026-02-28 12:05:38,155 - INFO - Progress: 70/100 symbols checked
+2026-02-28 12:06:07,430 - INFO - Progress: 80/100 symbols checked
+2026-02-28 12:06:33,142 - INFO - Progress: 90/100 symbols checked
+2026-02-28 12:06:59,768 - INFO - Progress: 100/100 symbols checked
+2026-02-28 12:07:00,769 - INFO - Cycle 3 complete. Waiting 60 seconds...
+2026-02-28 12:08:00,770 - INFO - === Cycle 4: Checking 100 symbols ===
+2026-02-28 12:08:26,545 - INFO - Progress: 10/100 symbols checked
+2026-02-28 12:08:51,128 - INFO - Progress: 20/100 symbols checked
+2026-02-28 12:09:18,461 - INFO - Progress: 30/100 symbols checked
+2026-02-28 12:09:44,641 - INFO - Progress: 40/100 symbols checked
+2026-02-28 12:10:11,702 - INFO - Progress: 50/100 symbols checked
+2026-02-28 12:10:38,068 - INFO - Progress: 60/100 symbols checked
+2026-02-28 12:11:18,276 - INFO - Progress: 70/100 symbols checked
+2026-02-28 12:11:43,409 - INFO - Progress: 80/100 symbols checked
+2026-02-28 12:12:10,237 - INFO - Progress: 90/100 symbols checked
+2026-02-28 12:12:34,001 - INFO - Progress: 100/100 symbols checked
+2026-02-28 12:12:35,002 - INFO - Cycle 4 complete. Waiting 60 seconds...
+2026-02-28 12:13:35,003 - INFO - === Cycle 5: Checking 100 symbols ===
+2026-02-28 12:14:02,376 - INFO - Progress: 10/100 symbols checked
+2026-02-28 12:14:28,796 - WARNING - ALERT: BNB/USDT:USDT Alert!
+Price: $592.40
+Near RESISTANCE: $609.62
+Condition: OVERBOUGHT
+RSI(4H): 19.07 | RSI(1D): 37.02
+2026-02-28 12:14:28,799 - INFO - BNB/USDT:USDT - Price: $592.40, RSI(4H): 19.07, RSI(1D): 37.02
+2026-02-28 12:14:31,554 - INFO - Progress: 20/100 symbols checked
+2026-02-28 12:15:02,469 - INFO - Progress: 30/100 symbols checked
+2026-02-28 12:15:29,424 - INFO - Progress: 40/100 symbols checked
+2026-02-28 12:15:54,635 - INFO - Progress: 50/100 symbols checked
+2026-02-28 12:16:21,434 - INFO - Progress: 60/100 symbols checked
+2026-02-28 12:16:45,633 - INFO - Progress: 70/100 symbols checked
+2026-02-28 12:17:11,441 - INFO - Progress: 80/100 symbols checked
+2026-02-28 12:17:36,677 - INFO - Progress: 90/100 symbols checked
+2026-02-28 12:18:07,228 - INFO - Progress: 100/100 symbols checked
+2026-02-28 12:18:08,229 - INFO - Cycle 5 complete. Waiting 60 seconds...
+2026-02-28 12:19:08,231 - INFO - === Cycle 6: Checking 100 symbols ===
+2026-02-28 12:19:35,560 - INFO - Progress: 10/100 symbols checked
+2026-02-28 12:20:05,186 - INFO - Progress: 20/100 symbols checked
+2026-02-28 12:20:31,957 - INFO - Progress: 30/100 symbols checked
+2026-02-28 12:20:55,207 - INFO - Progress: 40/100 symbols checked
+2026-02-28 12:21:19,558 - INFO - Progress: 50/100 symbols checked
+2026-02-28 12:21:44,578 - INFO - Progress: 60/100 symbols checked
+2026-02-28 12:22:07,777 - INFO - Progress: 70/100 symbols checked
+2026-02-28 12:22:33,216 - INFO - Progress: 80/100 symbols checked
+2026-02-28 12:22:58,978 - INFO - Progress: 90/100 symbols checked
+2026-02-28 12:23:23,771 - INFO - Progress: 100/100 symbols checked
+2026-02-28 12:23:24,772 - INFO - Cycle 6 complete. Waiting 60 seconds...
+2026-02-28 12:24:24,772 - INFO - === Cycle 7: Checking 100 symbols ===
+2026-02-28 12:24:49,453 - INFO - Progress: 10/100 symbols checked
+2026-02-28 12:25:14,202 - INFO - Progress: 20/100 symbols checked
+2026-02-28 12:25:19,546 - WARNING - ALERT: BCH/USDT:USDT Alert!
+Price: $445.40
+Near RESISTANCE: $458.85
+Condition: OVERBOUGHT
+RSI(4H): 12.03 | RSI(1D): 16.50
+2026-02-28 12:25:19,548 - INFO - BCH/USDT:USDT - Price: $445.40, RSI(4H): 12.03, RSI(1D): 16.50
+2026-02-28 12:25:38,027 - INFO - Progress: 30/100 symbols checked
+2026-02-28 12:26:02,958 - INFO - Progress: 40/100 symbols checked
+2026-02-28 12:26:27,688 - INFO - Progress: 50/100 symbols checked
+2026-02-28 12:26:52,820 - INFO - Progress: 60/100 symbols checked
+2026-02-28 12:27:17,468 - INFO - Progress: 70/100 symbols checked
+2026-02-28 12:27:42,495 - INFO - Progress: 80/100 symbols checked
+2026-02-28 12:28:09,137 - INFO - Progress: 90/100 symbols checked
+2026-02-28 12:28:33,905 - INFO - Progress: 100/100 symbols checked
+2026-02-28 12:28:34,906 - INFO - Cycle 7 complete. Waiting 60 seconds...
+2026-02-28 12:29:34,908 - INFO - === Cycle 8: Checking 100 symbols ===
+2026-02-28 12:30:00,079 - INFO - Progress: 10/100 symbols checked
+2026-02-28 12:30:26,270 - INFO - Progress: 20/100 symbols checked
+2026-02-28 12:30:51,008 - INFO - Progress: 30/100 symbols checked
+2026-02-28 12:31:17,128 - INFO - Progress: 40/100 symbols checked
+2026-02-28 12:31:42,646 - INFO - Progress: 50/100 symbols checked
+2026-02-28 12:32:08,769 - INFO - Progress: 60/100 symbols checked
+2026-02-28 12:32:31,932 - INFO - Progress: 70/100 symbols checked
+2026-02-28 12:32:58,564 - INFO - Progress: 80/100 symbols checked
+2026-02-28 12:33:22,976 - INFO - Progress: 90/100 symbols checked
+2026-02-28 12:33:48,151 - INFO - Progress: 100/100 symbols checked
+2026-02-28 12:33:49,151 - INFO - Cycle 8 complete. Waiting 60 seconds...
+2026-02-28 12:34:49,152 - INFO - === Cycle 9: Checking 100 symbols ===
+2026-02-28 12:35:14,323 - INFO - Progress: 10/100 symbols checked
+2026-02-28 12:35:38,012 - INFO - Progress: 20/100 symbols checked
+2026-02-28 12:36:02,953 - INFO - Progress: 30/100 symbols checked
+2026-02-28 12:36:27,806 - INFO - Progress: 40/100 symbols checked
+2026-02-28 12:36:53,216 - INFO - Progress: 50/100 symbols checked
+2026-02-28 12:37:18,290 - INFO - Progress: 60/100 symbols checked
+2026-02-28 12:37:42,312 - INFO - Progress: 70/100 symbols checked
+2026-02-28 12:38:08,738 - INFO - Progress: 80/100 symbols checked
+2026-02-28 12:38:32,425 - INFO - Progress: 90/100 symbols checked
+2026-02-28 12:38:58,166 - INFO - Progress: 100/100 symbols checked
+2026-02-28 12:38:59,168 - INFO - Cycle 9 complete. Waiting 60 seconds...
+2026-02-28 12:39:59,169 - INFO - === Cycle 10: Checking 100 symbols ===
+2026-02-28 12:40:24,060 - INFO - Progress: 10/100 symbols checked
+2026-02-28 12:40:48,286 - INFO - Progress: 20/100 symbols checked
+2026-02-28 12:41:13,490 - INFO - Progress: 30/100 symbols checked
+2026-02-28 12:41:37,712 - INFO - Progress: 40/100 symbols checked
+2026-02-28 12:42:01,943 - INFO - Progress: 50/100 symbols checked
+2026-02-28 12:42:27,303 - INFO - Progress: 60/100 symbols checked
+2026-02-28 12:42:53,226 - INFO - Progress: 70/100 symbols checked
+2026-02-28 12:43:18,764 - INFO - Progress: 80/100 symbols checked
+2026-02-28 12:43:43,836 - INFO - Progress: 90/100 symbols checked
+2026-02-28 12:44:08,633 - INFO - Progress: 100/100 symbols checked
+2026-02-28 12:44:09,640 - INFO - Cycle 10 complete. Waiting 60 seconds...
+2026-02-28 12:45:09,642 - INFO - === Cycle 11: Checking 100 symbols ===
+2026-02-28 12:45:27,112 - WARNING - ALERT: DOGE/USDT:USDT Alert!
+Price: $0.09
+Near SUPPORT: $0.09
+Condition: OVERBOUGHT
+RSI(4H): 13.91 | RSI(1D): 32.00
+2026-02-28 12:45:27,115 - INFO - DOGE/USDT:USDT - Price: $0.09, RSI(4H): 13.91, RSI(1D): 32.00
+2026-02-28 12:45:34,119 - INFO - Progress: 10/100 symbols checked
+2026-02-28 12:45:57,878 - INFO - Progress: 20/100 symbols checked
+2026-02-28 12:46:24,033 - INFO - Progress: 30/100 symbols checked
+2026-02-28 12:46:47,684 - INFO - Progress: 40/100 symbols checked
+2026-02-28 12:47:10,948 - INFO - Progress: 50/100 symbols checked
+2026-02-28 12:47:35,738 - INFO - Progress: 60/100 symbols checked
+2026-02-28 12:48:00,171 - INFO - Progress: 70/100 symbols checked
+2026-02-28 12:48:25,735 - INFO - Progress: 80/100 symbols checked
+2026-02-28 12:48:50,285 - INFO - Progress: 90/100 symbols checked
+2026-02-28 12:49:14,805 - INFO - Progress: 100/100 symbols checked
+2026-02-28 12:49:15,807 - INFO - Cycle 11 complete. Waiting 60 seconds...
+2026-02-28 12:50:15,808 - INFO - === Cycle 12: Checking 100 symbols ===
+2026-02-28 12:50:39,948 - INFO - Progress: 10/100 symbols checked
+2026-02-28 12:51:03,341 - INFO - Progress: 20/100 symbols checked
+2026-02-28 12:51:28,001 - INFO - Progress: 30/100 symbols checked
+2026-02-28 12:51:51,885 - INFO - Progress: 40/100 symbols checked
+2026-02-28 12:52:16,020 - INFO - Progress: 50/100 symbols checked
+2026-02-28 12:52:41,439 - INFO - Progress: 60/100 symbols checked
+2026-02-28 12:53:05,298 - INFO - Progress: 70/100 symbols checked
+2026-02-28 12:53:29,122 - INFO - Progress: 80/100 symbols checked
+2026-02-28 12:53:53,742 - INFO - Progress: 90/100 symbols checked
+2026-02-28 12:54:17,569 - INFO - Progress: 100/100 symbols checked
+2026-02-28 12:54:18,570 - INFO - Cycle 12 complete. Waiting 60 seconds...
+2026-02-28 12:55:18,571 - INFO - === Cycle 13: Checking 100 symbols ===
+2026-02-28 12:55:19,964 - WARNING - ALERT: BTC/USDT:USDT Alert!
+Price: $63628.60
+Near RESISTANCE: $64943.50
+Condition: OVERBOUGHT
+RSI(4H): 17.86 | RSI(1D): 32.09
+2026-02-28 12:55:19,967 - INFO - BTC/USDT:USDT - Price: $63628.60, RSI(4H): 17.86, RSI(1D): 32.09
+2026-02-28 12:55:43,949 - INFO - Progress: 10/100 symbols checked
+2026-02-28 12:56:07,262 - INFO - Progress: 20/100 symbols checked
+2026-02-28 12:56:12,823 - WARNING - ALERT: BCH/USDT:USDT Alert!
+Price: $442.00
+Near SUPPORT: $443.10
+Condition: OVERBOUGHT
+RSI(4H): 10.87 | RSI(1D): 15.94
+2026-02-28 12:56:12,826 - INFO - BCH/USDT:USDT - Price: $442.00, RSI(4H): 10.87, RSI(1D): 15.94
+2026-02-28 12:56:27,009 - WARNING - ALERT: AVAX/USDT:USDT Alert!
+Price: $8.47
+Near SUPPORT: $8.62
+Condition: OVERBOUGHT
+RSI(4H): 16.56 | RSI(1D): 38.11
+2026-02-28 12:56:27,014 - INFO - AVAX/USDT:USDT - Price: $8.47, RSI(4H): 16.56, RSI(1D): 38.11
+2026-02-28 12:56:32,254 - INFO - Progress: 30/100 symbols checked
+2026-02-28 12:56:57,277 - INFO - Progress: 40/100 symbols checked
+2026-02-28 12:57:20,505 - INFO - Progress: 50/100 symbols checked
+2026-02-28 12:57:35,808 - WARNING - ALERT: ATOM/USDT:USDT Alert!
+Price: $1.78
+Near SUPPORT: $1.83
+Condition: OVERBOUGHT
+RSI(4H): 15.16 | RSI(1D): 17.25
+2026-02-28 12:57:35,812 - INFO - ATOM/USDT:USDT - Price: $1.78, RSI(4H): 15.16, RSI(1D): 17.25
+2026-02-28 12:57:40,669 - WARNING - ALERT: ONDO/USDT:USDT Alert!
+Price: $0.24
+Near SUPPORT: $0.24
+Condition: OVERBOUGHT
+RSI(4H): 16.71 | RSI(1D): 34.08
+2026-02-28 12:57:40,670 - INFO - ONDO/USDT:USDT - Price: $0.24, RSI(4H): 16.71, RSI(1D): 34.08
+2026-02-28 12:57:43,349 - INFO - Progress: 60/100 symbols checked
+2026-02-28 12:58:09,361 - INFO - Progress: 70/100 symbols checked
+2026-02-28 12:58:32,445 - INFO - Progress: 80/100 symbols checked
+2026-02-28 12:58:59,406 - INFO - Progress: 90/100 symbols checked
+2026-02-28 12:59:25,895 - INFO - Progress: 100/100 symbols checked
+2026-02-28 12:59:26,896 - INFO - Cycle 13 complete. Waiting 60 seconds...
+2026-02-28 13:00:26,897 - INFO - === Cycle 14: Checking 100 symbols ===
+2026-02-28 13:00:50,714 - INFO - Progress: 10/100 symbols checked
+2026-02-28 13:01:07,278 - WARNING - ALERT: LINK/USDT:USDT Alert!
+Price: $8.25
+Near SUPPORT: $8.02
+Condition: OVERBOUGHT
+RSI(4H): 13.72 | RSI(1D): 37.53
+2026-02-28 13:01:07,283 - INFO - LINK/USDT:USDT - Price: $8.25, RSI(4H): 13.72, RSI(1D): 37.53
+2026-02-28 13:01:15,016 - INFO - Progress: 20/100 symbols checked
+2026-02-28 13:01:39,133 - INFO - Progress: 30/100 symbols checked
+2026-02-28 13:02:06,155 - INFO - Progress: 40/100 symbols checked
+2026-02-28 13:02:35,281 - INFO - Progress: 50/100 symbols checked
+2026-02-28 13:03:05,029 - INFO - Progress: 60/100 symbols checked
+2026-02-28 13:03:30,580 - INFO - Progress: 70/100 symbols checked
+2026-02-28 13:03:58,116 - INFO - Progress: 80/100 symbols checked
+2026-02-28 13:04:06,428 - WARNING - ALERT: TRX/USDT:USDT Alert!
+Price: $0.28
+Near SUPPORT: $0.27
+Condition: OVERBOUGHT
+RSI(4H): 13.55 | RSI(1D): 33.26
+2026-02-28 13:04:06,431 - INFO - TRX/USDT:USDT - Price: $0.28, RSI(4H): 13.55, RSI(1D): 33.26
+2026-02-28 13:04:24,584 - INFO - Progress: 90/100 symbols checked
+2026-02-28 13:04:49,806 - INFO - Progress: 100/100 symbols checked
+2026-02-28 13:04:50,812 - INFO - Cycle 14 complete. Waiting 60 seconds...
+2026-02-28 13:05:50,817 - INFO - === Cycle 15: Checking 100 symbols ===
+2026-02-28 13:06:16,657 - INFO - Progress: 10/100 symbols checked
+2026-02-28 13:06:43,533 - INFO - Progress: 20/100 symbols checked
+2026-02-28 13:07:09,156 - INFO - Progress: 30/100 symbols checked
+2026-02-28 13:07:31,744 - INFO - Progress: 40/100 symbols checked
+2026-02-28 13:07:55,850 - INFO - Progress: 50/100 symbols checked
+2026-02-28 13:08:20,702 - INFO - Progress: 60/100 symbols checked
+2026-02-28 13:08:45,303 - INFO - Progress: 70/100 symbols checked
+2026-02-28 13:09:10,417 - INFO - Progress: 80/100 symbols checked
+2026-02-28 13:09:33,597 - INFO - Progress: 90/100 symbols checked
+2026-02-28 13:09:57,965 - INFO - Progress: 100/100 symbols checked
+2026-02-28 13:09:58,967 - INFO - Cycle 15 complete. Waiting 60 seconds...
+2026-02-28 13:10:58,968 - INFO - === Cycle 16: Checking 100 symbols ===
+2026-02-28 13:11:24,464 - INFO - Progress: 10/100 symbols checked
+2026-02-28 13:11:49,248 - INFO - Progress: 20/100 symbols checked
+2026-02-28 13:12:15,196 - INFO - Progress: 30/100 symbols checked
+2026-02-28 13:12:38,583 - INFO - Progress: 40/100 symbols checked
+2026-02-28 13:13:02,310 - INFO - Progress: 50/100 symbols checked
+2026-02-28 13:13:27,340 - INFO - Progress: 60/100 symbols checked
+2026-02-28 13:13:50,482 - INFO - Progress: 70/100 symbols checked
+2026-02-28 13:14:19,647 - INFO - Progress: 80/100 symbols checked
+2026-02-28 13:14:47,575 - INFO - Progress: 90/100 symbols checked
+2026-02-28 13:15:15,333 - INFO - Progress: 100/100 symbols checked
+2026-02-28 13:15:16,336 - INFO - Cycle 16 complete. Waiting 60 seconds...
+2026-02-28 13:16:16,338 - INFO - === Cycle 17: Checking 100 symbols ===
+2026-02-28 13:16:43,897 - INFO - Progress: 10/100 symbols checked
+2026-02-28 13:17:08,858 - INFO - Progress: 20/100 symbols checked
+2026-02-28 13:17:35,086 - INFO - Progress: 30/100 symbols checked
+2026-02-28 13:18:03,152 - INFO - Progress: 40/100 symbols checked
+2026-02-28 13:18:28,418 - INFO - Progress: 50/100 symbols checked
+2026-02-28 13:18:55,636 - INFO - Progress: 60/100 symbols checked
+2026-02-28 13:19:20,014 - INFO - Progress: 70/100 symbols checked
+2026-02-28 13:19:39,248 - WARNING - ALERT: ARC/USDT:USDT Alert!
+Price: $0.03
+Near SUPPORT: $0.03
+Condition: OVERBOUGHT
+RSI(4H): 19.39 | RSI(1D): 22.34
+2026-02-28 13:19:39,252 - INFO - ARC/USDT:USDT - Price: $0.03, RSI(4H): 19.39, RSI(1D): 22.34
+2026-02-28 13:19:47,409 - INFO - Progress: 80/100 symbols checked
+2026-02-28 13:20:12,869 - INFO - Progress: 90/100 symbols checked
+2026-02-28 13:20:38,681 - INFO - Progress: 100/100 symbols checked
+2026-02-28 13:20:39,683 - INFO - Cycle 17 complete. Waiting 60 seconds...
+2026-02-28 13:21:39,684 - INFO - === Cycle 18: Checking 100 symbols ===
+2026-02-28 13:22:04,093 - INFO - Progress: 10/100 symbols checked
+2026-02-28 13:22:25,363 - WARNING - ALERT: BNB/USDT:USDT Alert!
+Price: $591.90
+Near RESISTANCE: $609.62
+Condition: OVERBOUGHT
+RSI(4H): 18.80 | RSI(1D): 36.83
+2026-02-28 13:22:25,367 - INFO - BNB/USDT:USDT - Price: $591.90, RSI(4H): 18.80, RSI(1D): 36.83
+2026-02-28 13:22:27,925 - INFO - Progress: 20/100 symbols checked
+2026-02-28 13:22:53,074 - INFO - Progress: 30/100 symbols checked
+2026-02-28 13:23:16,980 - INFO - Progress: 40/100 symbols checked
+2026-02-28 13:23:41,914 - INFO - Progress: 50/100 symbols checked
+2026-02-28 13:24:09,384 - INFO - Progress: 60/100 symbols checked
+2026-02-28 13:24:34,185 - INFO - Progress: 70/100 symbols checked
+2026-02-28 13:24:58,914 - INFO - Progress: 80/100 symbols checked
+2026-02-28 13:25:23,237 - INFO - Progress: 90/100 symbols checked
+2026-02-28 13:25:47,418 - INFO - Progress: 100/100 symbols checked
+2026-02-28 13:25:48,419 - INFO - Cycle 18 complete. Waiting 60 seconds...
+2026-02-28 13:26:48,420 - INFO - === Cycle 19: Checking 100 symbols ===
+2026-02-28 13:27:11,655 - INFO - Progress: 10/100 symbols checked
+2026-02-28 13:27:33,880 - INFO - Progress: 20/100 symbols checked
+2026-02-28 13:27:38,832 - WARNING - ALERT: BCH/USDT:USDT Alert!
+Price: $445.20
+Near RESISTANCE: $458.85
+Condition: OVERBOUGHT
+RSI(4H): 11.96 | RSI(1D): 16.46
+2026-02-28 13:27:38,835 - INFO - BCH/USDT:USDT - Price: $445.20, RSI(4H): 11.96, RSI(1D): 16.46
+2026-02-28 13:27:59,351 - INFO - Progress: 30/100 symbols checked
+2026-02-28 13:28:22,565 - INFO - Progress: 40/100 symbols checked
+2026-02-28 13:28:45,916 - INFO - Progress: 50/100 symbols checked
+2026-02-28 13:29:12,431 - INFO - Progress: 60/100 symbols checked
+2026-02-28 13:30:55,939 - INFO - Progress: 70/100 symbols checked
+2026-02-28 13:31:21,081 - INFO - Progress: 80/100 symbols checked
+2026-02-28 13:31:45,808 - INFO - Progress: 90/100 symbols checked
+2026-02-28 13:32:11,656 - INFO - Progress: 100/100 symbols checked
+2026-02-28 13:32:12,658 - INFO - Cycle 19 complete. Waiting 60 seconds...
+2026-02-28 13:33:12,659 - INFO - === Cycle 20: Checking 100 symbols ===
+2026-02-28 13:33:37,093 - INFO - Progress: 10/100 symbols checked
+2026-02-28 13:34:02,295 - INFO - Progress: 20/100 symbols checked
+2026-02-28 13:34:26,561 - INFO - Progress: 30/100 symbols checked
+2026-02-28 13:34:51,301 - INFO - Progress: 40/100 symbols checked
+2026-02-28 13:35:18,402 - INFO - Progress: 50/100 symbols checked
+2026-02-28 13:35:45,698 - INFO - Progress: 60/100 symbols checked
+2026-02-28 13:36:11,951 - INFO - Progress: 70/100 symbols checked
+2026-02-28 13:36:39,720 - INFO - Progress: 80/100 symbols checked
+2026-02-28 13:37:04,695 - INFO - Progress: 90/100 symbols checked
+2026-02-28 13:37:30,748 - INFO - Progress: 100/100 symbols checked
+2026-02-28 13:37:31,749 - INFO - Cycle 20 complete. Waiting 60 seconds...
+2026-02-28 13:38:31,750 - INFO - === Cycle 21: Checking 100 symbols ===
+2026-02-28 13:38:55,343 - INFO - Progress: 10/100 symbols checked
+2026-02-28 13:39:20,924 - INFO - Progress: 20/100 symbols checked
+2026-02-28 13:39:46,719 - INFO - Progress: 30/100 symbols checked
+2026-02-28 13:40:10,794 - INFO - Progress: 40/100 symbols checked
+2026-02-28 13:40:35,018 - INFO - Progress: 50/100 symbols checked
+2026-02-28 13:41:00,668 - INFO - Progress: 60/100 symbols checked
+2026-02-28 13:41:27,013 - INFO - Progress: 70/100 symbols checked
+2026-02-28 13:41:51,689 - INFO - Progress: 80/100 symbols checked
+2026-02-28 13:42:15,325 - INFO - Progress: 90/100 symbols checked
+2026-02-28 13:42:39,997 - INFO - Progress: 100/100 symbols checked
+2026-02-28 13:42:40,998 - INFO - Cycle 21 complete. Waiting 60 seconds...
+2026-02-28 13:43:41,000 - INFO - === Cycle 22: Checking 100 symbols ===
+2026-02-28 13:44:06,053 - INFO - Progress: 10/100 symbols checked
+2026-02-28 13:44:31,859 - INFO - Progress: 20/100 symbols checked
+2026-02-28 13:44:57,339 - INFO - Progress: 30/100 symbols checked
+2026-02-28 13:45:22,637 - INFO - Progress: 40/100 symbols checked
+2026-02-28 13:45:46,816 - INFO - Progress: 50/100 symbols checked
+2026-02-28 13:46:10,872 - INFO - Progress: 60/100 symbols checked
+2026-02-28 13:46:34,974 - INFO - Progress: 70/100 symbols checked
+2026-02-28 13:46:59,663 - INFO - Progress: 80/100 symbols checked
+2026-02-28 13:47:25,265 - INFO - Progress: 90/100 symbols checked
+2026-02-28 13:47:50,788 - INFO - Progress: 100/100 symbols checked
+2026-02-28 13:47:51,802 - INFO - Cycle 22 complete. Waiting 60 seconds...
+2026-02-28 13:48:51,851 - INFO - === Cycle 23: Checking 100 symbols ===
+2026-02-28 13:49:15,968 - INFO - Progress: 10/100 symbols checked
+2026-02-28 13:49:41,205 - INFO - Progress: 20/100 symbols checked
+2026-02-28 13:50:08,438 - INFO - Progress: 30/100 symbols checked
+2026-02-28 13:50:33,176 - INFO - Progress: 40/100 symbols checked
+2026-02-28 13:50:56,989 - INFO - Progress: 50/100 symbols checked
+2026-02-28 13:51:21,802 - INFO - Progress: 60/100 symbols checked
+2026-02-28 13:51:46,080 - INFO - Progress: 70/100 symbols checked
+2026-02-28 14:06:46,234 - INFO - Progress: 80/100 symbols checked
+2026-02-28 14:06:59,291 - INFO - Progress: 90/100 symbols checked
+2026-02-28 14:07:12,368 - INFO - Progress: 100/100 symbols checked
+2026-02-28 14:07:13,368 - INFO - Cycle 23 complete. Waiting 60 seconds...
+2026-02-28 14:08:13,369 - INFO - === Cycle 24: Checking 100 symbols ===
+2026-02-28 14:17:16,302 - INFO - Progress: 10/100 symbols checked
+2026-02-28 14:17:29,342 - INFO - Progress: 20/100 symbols checked
+2026-02-28 14:17:42,379 - INFO - Progress: 30/100 symbols checked
+2026-02-28 14:17:55,409 - INFO - Progress: 40/100 symbols checked
+2026-02-28 14:18:08,442 - INFO - Progress: 50/100 symbols checked
+2026-02-28 14:18:21,509 - INFO - Progress: 60/100 symbols checked
+2026-02-28 14:18:34,559 - INFO - Progress: 70/100 symbols checked
+2026-02-28 14:18:47,596 - INFO - Progress: 80/100 symbols checked
+2026-02-28 14:19:00,653 - INFO - Progress: 90/100 symbols checked
+2026-02-28 14:19:13,804 - INFO - Progress: 100/100 symbols checked
+2026-02-28 14:19:14,808 - INFO - Cycle 24 complete. Waiting 60 seconds...
+2026-02-28 14:20:14,809 - INFO - === Cycle 25: Checking 100 symbols ===
+2026-02-28 14:20:26,871 - INFO - Progress: 10/100 symbols checked
+2026-02-28 14:20:39,932 - INFO - Progress: 20/100 symbols checked
+2026-02-28 14:20:52,991 - INFO - Progress: 30/100 symbols checked
+2026-02-28 14:21:06,082 - INFO - Progress: 40/100 symbols checked
+2026-02-28 14:21:19,149 - INFO - Progress: 50/100 symbols checked
+2026-02-28 14:21:32,272 - INFO - Progress: 60/100 symbols checked
+2026-02-28 14:21:45,343 - INFO - Progress: 70/100 symbols checked
+2026-02-28 14:21:58,398 - INFO - Progress: 80/100 symbols checked
+2026-02-28 14:22:11,462 - INFO - Progress: 90/100 symbols checked
+2026-02-28 14:22:24,526 - INFO - Progress: 100/100 symbols checked
+2026-02-28 14:22:25,527 - INFO - Cycle 25 complete. Waiting 60 seconds...
+2026-02-28 14:23:25,528 - INFO - === Cycle 26: Checking 100 symbols ===
+2026-02-28 14:23:37,589 - INFO - Progress: 10/100 symbols checked
+2026-02-28 14:23:50,652 - INFO - Progress: 20/100 symbols checked
+2026-02-28 14:24:03,709 - INFO - Progress: 30/100 symbols checked
+2026-02-28 14:24:16,766 - INFO - Progress: 40/100 symbols checked
+2026-02-28 14:24:29,828 - INFO - Progress: 50/100 symbols checked
+2026-02-28 14:24:42,887 - INFO - Progress: 60/100 symbols checked
+2026-02-28 14:24:55,948 - INFO - Progress: 70/100 symbols checked
+2026-02-28 14:25:09,053 - INFO - Progress: 80/100 symbols checked
+2026-02-28 14:25:22,120 - INFO - Progress: 90/100 symbols checked
+2026-02-28 14:25:35,187 - INFO - Progress: 100/100 symbols checked
+2026-02-28 14:25:36,188 - INFO - Cycle 26 complete. Waiting 60 seconds...
+2026-02-28 14:26:36,190 - INFO - === Cycle 27: Checking 100 symbols ===
+2026-02-28 14:26:48,253 - INFO - Progress: 10/100 symbols checked
+2026-02-28 14:27:01,320 - INFO - Progress: 20/100 symbols checked
+2026-02-28 14:27:14,429 - INFO - Progress: 30/100 symbols checked
+2026-02-28 14:27:27,486 - INFO - Progress: 40/100 symbols checked
+2026-02-28 14:27:40,540 - INFO - Progress: 50/100 symbols checked
+2026-02-28 14:27:53,596 - INFO - Progress: 60/100 symbols checked
+2026-02-28 14:28:06,655 - INFO - Progress: 70/100 symbols checked
+2026-02-28 14:28:19,716 - INFO - Progress: 80/100 symbols checked
+2026-02-28 14:28:32,779 - INFO - Progress: 90/100 symbols checked
+2026-02-28 14:28:45,860 - INFO - Progress: 100/100 symbols checked
+2026-02-28 14:28:46,862 - INFO - Cycle 27 complete. Waiting 60 seconds...
+2026-02-28 14:36:36,169 - INFO - === Cycle 28: Checking 100 symbols ===
+2026-02-28 14:36:48,226 - INFO - Progress: 10/100 symbols checked
+2026-02-28 14:37:01,298 - INFO - Progress: 20/100 symbols checked
+2026-02-28 14:37:14,380 - INFO - Progress: 30/100 symbols checked
+2026-02-28 14:37:27,438 - INFO - Progress: 40/100 symbols checked
+2026-02-28 14:37:40,500 - INFO - Progress: 50/100 symbols checked
+2026-02-28 14:37:53,564 - INFO - Progress: 60/100 symbols checked
+2026-02-28 14:38:06,635 - INFO - Progress: 70/100 symbols checked
+2026-02-28 14:38:19,694 - INFO - Progress: 80/100 symbols checked
+2026-02-28 14:38:32,786 - INFO - Progress: 90/100 symbols checked
+2026-02-28 14:38:45,863 - INFO - Progress: 100/100 symbols checked
+2026-02-28 14:38:46,864 - INFO - Cycle 28 complete. Waiting 60 seconds...
+2026-02-28 14:39:46,866 - INFO - === Cycle 29: Checking 100 symbols ===
+2026-02-28 14:39:58,931 - INFO - Progress: 10/100 symbols checked
+2026-02-28 14:40:11,995 - INFO - Progress: 20/100 symbols checked
+2026-02-28 14:40:25,054 - INFO - Progress: 30/100 symbols checked
+2026-02-28 14:40:38,117 - INFO - Progress: 40/100 symbols checked
+2026-02-28 14:40:51,176 - INFO - Progress: 50/100 symbols checked
+2026-02-28 14:41:04,236 - INFO - Progress: 60/100 symbols checked
+2026-02-28 14:41:17,298 - INFO - Progress: 70/100 symbols checked
+2026-02-28 14:41:30,356 - INFO - Progress: 80/100 symbols checked
+2026-02-28 14:41:43,429 - INFO - Progress: 90/100 symbols checked
+2026-02-28 14:41:56,487 - INFO - Progress: 100/100 symbols checked
+2026-02-28 14:41:57,489 - INFO - Cycle 29 complete. Waiting 60 seconds...
+2026-02-28 14:42:57,490 - INFO - === Cycle 30: Checking 100 symbols ===
+2026-02-28 14:43:09,556 - INFO - Progress: 10/100 symbols checked
+2026-02-28 14:43:22,624 - INFO - Progress: 20/100 symbols checked
+2026-02-28 14:43:35,692 - INFO - Progress: 30/100 symbols checked
+2026-02-28 14:43:48,759 - INFO - Progress: 40/100 symbols checked
+2026-02-28 14:44:01,818 - INFO - Progress: 50/100 symbols checked
+2026-02-28 14:44:14,885 - INFO - Progress: 60/100 symbols checked
+2026-02-28 14:44:27,951 - INFO - Progress: 70/100 symbols checked
+2026-02-28 14:44:41,022 - INFO - Progress: 80/100 symbols checked
+2026-02-28 14:44:54,112 - INFO - Progress: 90/100 symbols checked
+2026-02-28 14:45:07,175 - INFO - Progress: 100/100 symbols checked
+2026-02-28 14:45:08,176 - INFO - Cycle 30 complete. Waiting 60 seconds...
+2026-02-28 14:46:08,178 - INFO - === Cycle 31: Checking 100 symbols ===
+2026-02-28 14:46:20,251 - INFO - Progress: 10/100 symbols checked
+2026-02-28 14:46:33,321 - INFO - Progress: 20/100 symbols checked
+2026-02-28 14:46:46,397 - INFO - Progress: 30/100 symbols checked
+2026-02-28 14:46:59,457 - INFO - Progress: 40/100 symbols checked
+2026-02-28 14:47:12,517 - INFO - Progress: 50/100 symbols checked
+2026-02-28 14:47:25,576 - INFO - Progress: 60/100 symbols checked
+2026-02-28 14:47:38,638 - INFO - Progress: 70/100 symbols checked
+2026-02-28 14:47:51,696 - INFO - Progress: 80/100 symbols checked
+2026-02-28 14:48:04,755 - INFO - Progress: 90/100 symbols checked
+2026-02-28 14:48:17,815 - INFO - Progress: 100/100 symbols checked
+2026-02-28 14:48:18,816 - INFO - Cycle 31 complete. Waiting 60 seconds...
+2026-02-28 14:49:18,817 - INFO - === Cycle 32: Checking 100 symbols ===
+2026-02-28 14:49:30,877 - INFO - Progress: 10/100 symbols checked
+2026-02-28 14:49:43,937 - INFO - Progress: 20/100 symbols checked
+2026-02-28 14:49:56,997 - INFO - Progress: 30/100 symbols checked
+2026-02-28 14:50:10,064 - INFO - Progress: 40/100 symbols checked
+2026-02-28 14:50:23,121 - INFO - Progress: 50/100 symbols checked
+2026-02-28 14:50:36,182 - INFO - Progress: 60/100 symbols checked
+2026-02-28 14:50:49,251 - INFO - Progress: 70/100 symbols checked
+2026-02-28 14:51:02,313 - INFO - Progress: 80/100 symbols checked
+2026-02-28 14:51:15,373 - INFO - Progress: 90/100 symbols checked
+2026-02-28 14:51:28,438 - INFO - Progress: 100/100 symbols checked
+2026-02-28 14:51:29,440 - INFO - Cycle 32 complete. Waiting 60 seconds...
+2026-02-28 14:52:29,441 - INFO - === Cycle 33: Checking 100 symbols ===
+2026-02-28 14:52:41,496 - INFO - Progress: 10/100 symbols checked
+2026-02-28 14:52:54,589 - INFO - Progress: 20/100 symbols checked
+2026-02-28 14:53:07,641 - INFO - Progress: 30/100 symbols checked
+2026-02-28 14:53:20,722 - INFO - Progress: 40/100 symbols checked
+2026-02-28 14:53:33,780 - INFO - Progress: 50/100 symbols checked
+2026-02-28 14:53:46,843 - INFO - Progress: 60/100 symbols checked
+2026-02-28 14:53:59,906 - INFO - Progress: 70/100 symbols checked
+2026-02-28 14:54:12,973 - INFO - Progress: 80/100 symbols checked
+2026-02-28 14:54:26,034 - INFO - Progress: 90/100 symbols checked
+2026-02-28 14:54:39,096 - INFO - Progress: 100/100 symbols checked
+2026-02-28 14:54:40,097 - INFO - Cycle 33 complete. Waiting 60 seconds...
+2026-02-28 14:55:40,098 - INFO - === Cycle 34: Checking 100 symbols ===
+2026-02-28 14:55:52,199 - INFO - Progress: 10/100 symbols checked
+2026-02-28 14:56:05,339 - INFO - Progress: 20/100 symbols checked
+2026-02-28 14:56:18,421 - INFO - Progress: 30/100 symbols checked
+2026-02-28 14:56:31,518 - INFO - Progress: 40/100 symbols checked
+2026-02-28 14:56:44,700 - INFO - Progress: 50/100 symbols checked
+2026-02-28 14:57:00,889 - WARNING - ALERT: ONDO/USDT:USDT Alert!
+Price: $0.24
+Near SUPPORT: $0.24
+Condition: OVERBOUGHT
+RSI(4H): 16.65 | RSI(1D): 34.03
+2026-02-28 14:57:00,892 - INFO - ONDO/USDT:USDT - Price: $0.24, RSI(4H): 16.65, RSI(1D): 34.03
+2026-02-28 14:57:03,553 - INFO - Progress: 60/100 symbols checked
+2026-02-28 14:57:33,730 - INFO - Progress: 70/100 symbols checked
+2026-02-28 14:57:51,829 - WARNING - ALERT: ARC/USDT:USDT Alert!
+Price: $0.03
+Near SUPPORT: $0.03
+Condition: OVERBOUGHT
+RSI(4H): 18.01 | RSI(1D): 21.99
+2026-02-28 14:57:51,836 - INFO - ARC/USDT:USDT - Price: $0.03, RSI(4H): 18.01, RSI(1D): 21.99
+2026-02-28 14:58:02,547 - INFO - Progress: 80/100 symbols checked
+2026-02-28 14:58:29,415 - INFO - Progress: 90/100 symbols checked
+2026-02-28 14:58:54,182 - INFO - Progress: 100/100 symbols checked
+2026-02-28 14:58:55,183 - INFO - Cycle 34 complete. Waiting 60 seconds...
+2026-02-28 14:59:55,184 - INFO - === Cycle 35: Checking 100 symbols ===
+2026-02-28 14:59:57,308 - WARNING - ALERT: BTC/USDT:USDT Alert!
+Price: $63807.60
+Near RESISTANCE: $64943.50
+Condition: OVERBOUGHT
+RSI(4H): 19.14 | RSI(1D): 32.70
+2026-02-28 14:59:57,313 - INFO - BTC/USDT:USDT - Price: $63807.60, RSI(4H): 19.14, RSI(1D): 32.70
+2026-02-28 15:00:21,177 - INFO - Progress: 10/100 symbols checked
+2026-02-28 15:00:57,528 - INFO - Progress: 20/100 symbols checked
+2026-02-28 15:01:10,650 - INFO - Progress: 30/100 symbols checked
+2026-02-28 15:01:23,743 - INFO - Progress: 40/100 symbols checked
+2026-02-28 15:01:36,810 - INFO - Progress: 50/100 symbols checked
+2026-02-28 15:01:49,883 - INFO - Progress: 60/100 symbols checked
+2026-02-28 15:02:02,956 - INFO - Progress: 70/100 symbols checked
+2026-02-28 15:02:16,036 - INFO - Progress: 80/100 symbols checked
+2026-02-28 15:02:29,120 - INFO - Progress: 90/100 symbols checked
+2026-02-28 15:02:42,191 - INFO - Progress: 100/100 symbols checked
+2026-02-28 15:02:43,192 - INFO - Cycle 35 complete. Waiting 60 seconds...
+2026-02-28 15:03:43,194 - INFO - === Cycle 36: Checking 100 symbols ===
+2026-02-28 15:03:55,287 - INFO - Progress: 10/100 symbols checked
+2026-02-28 15:04:08,362 - INFO - Progress: 20/100 symbols checked
+2026-02-28 15:04:21,429 - INFO - Progress: 30/100 symbols checked
+2026-02-28 15:04:34,495 - INFO - Progress: 40/100 symbols checked
+2026-02-28 15:04:47,567 - INFO - Progress: 50/100 symbols checked
+2026-02-28 15:05:00,670 - INFO - Progress: 60/100 symbols checked
+2026-02-28 15:05:13,756 - INFO - Progress: 70/100 symbols checked
+2026-02-28 15:05:26,859 - INFO - Progress: 80/100 symbols checked
+2026-02-28 15:05:39,950 - INFO - Progress: 90/100 symbols checked
+2026-02-28 15:05:53,016 - INFO - Progress: 100/100 symbols checked
+2026-02-28 15:05:54,018 - INFO - Cycle 36 complete. Waiting 60 seconds...
+2026-02-28 15:06:54,026 - INFO - === Cycle 37: Checking 100 symbols ===
+2026-02-28 15:07:06,170 - INFO - Progress: 10/100 symbols checked
+2026-02-28 15:42:50,382 - INFO - Progress: 20/100 symbols checked
+2026-02-28 15:43:03,414 - INFO - Progress: 30/100 symbols checked
+2026-02-28 15:43:16,439 - INFO - Progress: 40/100 symbols checked
+2026-02-28 15:43:29,467 - INFO - Progress: 50/100 symbols checked
+2026-02-28 15:43:42,496 - INFO - Progress: 60/100 symbols checked
+2026-02-28 15:43:55,520 - INFO - Progress: 70/100 symbols checked
+2026-02-28 15:44:08,545 - INFO - Progress: 80/100 symbols checked
+2026-02-28 15:44:21,662 - INFO - Progress: 90/100 symbols checked
+2026-02-28 15:44:34,719 - INFO - Progress: 100/100 symbols checked
+2026-02-28 15:44:35,720 - INFO - Cycle 37 complete. Waiting 60 seconds...
+2026-02-28 15:45:35,721 - INFO - === Cycle 38: Checking 100 symbols ===
+2026-02-28 15:45:47,777 - INFO - Progress: 10/100 symbols checked
+2026-02-28 15:46:00,835 - INFO - Progress: 20/100 symbols checked
+2026-02-28 15:46:13,911 - INFO - Progress: 30/100 symbols checked
+2026-02-28 15:46:26,972 - INFO - Progress: 40/100 symbols checked
+2026-02-28 15:46:40,024 - INFO - Progress: 50/100 symbols checked
+2026-02-28 15:46:53,082 - INFO - Progress: 60/100 symbols checked
+2026-02-28 15:47:06,133 - INFO - Progress: 70/100 symbols checked
+2026-02-28 15:47:19,186 - INFO - Progress: 80/100 symbols checked
+2026-02-28 15:47:32,242 - INFO - Progress: 90/100 symbols checked
+2026-02-28 15:47:45,307 - INFO - Progress: 100/100 symbols checked
+2026-02-28 15:47:46,308 - INFO - Cycle 38 complete. Waiting 60 seconds...
+2026-02-28 15:48:46,309 - INFO - === Cycle 39: Checking 100 symbols ===
+2026-02-28 15:48:58,357 - INFO - Progress: 10/100 symbols checked
+2026-02-28 15:49:11,412 - INFO - Progress: 20/100 symbols checked
+2026-02-28 15:49:24,470 - INFO - Progress: 30/100 symbols checked
+2026-02-28 15:49:37,529 - INFO - Progress: 40/100 symbols checked
+2026-02-28 15:49:50,587 - INFO - Progress: 50/100 symbols checked
+2026-02-28 15:50:03,646 - INFO - Progress: 60/100 symbols checked
+2026-02-28 15:50:16,698 - INFO - Progress: 70/100 symbols checked
+2026-02-28 15:50:29,759 - INFO - Progress: 80/100 symbols checked
+2026-02-28 15:50:42,818 - INFO - Progress: 90/100 symbols checked
+2026-02-28 15:50:55,867 - INFO - Progress: 100/100 symbols checked
+2026-02-28 15:50:56,868 - INFO - Cycle 39 complete. Waiting 60 seconds...
+2026-02-28 15:51:56,870 - INFO - === Cycle 40: Checking 100 symbols ===
+2026-02-28 15:52:08,921 - INFO - Progress: 10/100 symbols checked
+2026-02-28 15:52:21,972 - INFO - Progress: 20/100 symbols checked
+2026-02-28 15:52:35,031 - INFO - Progress: 30/100 symbols checked
+2026-02-28 15:52:48,092 - INFO - Progress: 40/100 symbols checked
+2026-02-28 15:53:01,208 - INFO - Progress: 50/100 symbols checked
+2026-02-28 15:53:14,244 - INFO - Progress: 60/100 symbols checked
+2026-02-28 15:53:27,299 - INFO - Progress: 70/100 symbols checked
+2026-02-28 15:53:40,351 - INFO - Progress: 80/100 symbols checked
+2026-02-28 15:53:53,395 - INFO - Progress: 90/100 symbols checked
+2026-02-28 15:54:06,446 - INFO - Progress: 100/100 symbols checked
+2026-02-28 15:54:07,447 - INFO - Cycle 40 complete. Waiting 60 seconds...
+2026-02-28 15:55:07,449 - INFO - === Cycle 41: Checking 100 symbols ===
+2026-02-28 15:55:19,487 - INFO - Progress: 10/100 symbols checked
+2026-02-28 15:55:32,540 - INFO - Progress: 20/100 symbols checked
+2026-02-28 15:55:45,580 - INFO - Progress: 30/100 symbols checked
+2026-02-28 15:55:58,617 - INFO - Progress: 40/100 symbols checked
+2026-02-28 15:56:11,646 - INFO - Progress: 50/100 symbols checked
+2026-02-28 15:56:24,702 - INFO - Progress: 60/100 symbols checked
+2026-02-28 15:56:37,745 - INFO - Progress: 70/100 symbols checked
+2026-02-28 15:56:50,781 - INFO - Progress: 80/100 symbols checked
+2026-02-28 15:57:03,841 - INFO - Progress: 90/100 symbols checked
+2026-02-28 15:57:16,888 - INFO - Progress: 100/100 symbols checked
+2026-02-28 15:57:17,889 - INFO - Cycle 41 complete. Waiting 60 seconds...
+2026-02-28 15:58:17,890 - INFO - === Cycle 42: Checking 100 symbols ===
+2026-02-28 15:58:29,935 - INFO - Progress: 10/100 symbols checked
+2026-02-28 15:58:42,988 - INFO - Progress: 20/100 symbols checked
+2026-02-28 15:58:56,035 - INFO - Progress: 30/100 symbols checked
+2026-02-28 15:59:09,089 - INFO - Progress: 40/100 symbols checked
+2026-02-28 15:59:22,149 - INFO - Progress: 50/100 symbols checked
+2026-02-28 15:59:35,197 - INFO - Progress: 60/100 symbols checked
+2026-02-28 15:59:48,249 - INFO - Progress: 70/100 symbols checked
+2026-02-28 16:00:09,324 - INFO - Progress: 80/100 symbols checked
+2026-02-28 16:00:52,215 - INFO - Progress: 90/100 symbols checked
+2026-02-28 16:01:35,565 - INFO - Progress: 100/100 symbols checked
+2026-02-28 16:01:36,567 - INFO - Cycle 42 complete. Waiting 60 seconds...
+2026-02-28 16:02:37,284 - INFO - === Cycle 43: Checking 100 symbols ===
+2026-02-28 16:02:52,158 - INFO - Progress: 10/100 symbols checked
+2026-02-28 16:03:05,218 - INFO - Progress: 20/100 symbols checked
+2026-02-28 16:03:18,277 - INFO - Progress: 30/100 symbols checked
+2026-02-28 16:03:31,333 - INFO - Progress: 40/100 symbols checked
+2026-02-28 16:03:44,392 - INFO - Progress: 50/100 symbols checked
+2026-02-28 16:03:57,450 - INFO - Progress: 60/100 symbols checked
+2026-02-28 16:04:10,499 - INFO - Progress: 70/100 symbols checked
+2026-02-28 16:04:23,557 - INFO - Progress: 80/100 symbols checked
+2026-02-28 16:04:36,614 - INFO - Progress: 90/100 symbols checked
+2026-02-28 16:04:49,673 - INFO - Progress: 100/100 symbols checked
+2026-02-28 16:04:50,675 - INFO - Cycle 43 complete. Waiting 60 seconds...
+2026-02-28 16:05:50,676 - INFO - === Cycle 44: Checking 100 symbols ===
+2026-02-28 16:06:02,740 - INFO - Progress: 10/100 symbols checked
+2026-02-28 16:06:15,800 - INFO - Progress: 20/100 symbols checked
+2026-02-28 16:06:28,856 - INFO - Progress: 30/100 symbols checked
+2026-02-28 16:06:41,914 - INFO - Progress: 40/100 symbols checked
+2026-02-28 16:06:54,970 - INFO - Progress: 50/100 symbols checked
+2026-02-28 16:07:08,026 - INFO - Progress: 60/100 symbols checked
+2026-02-28 16:07:21,081 - INFO - Progress: 70/100 symbols checked
+2026-02-28 16:07:34,144 - INFO - Progress: 80/100 symbols checked
+2026-02-28 16:07:47,207 - INFO - Progress: 90/100 symbols checked
+2026-02-28 16:08:00,268 - INFO - Progress: 100/100 symbols checked
+2026-02-28 16:08:01,270 - INFO - Cycle 44 complete. Waiting 60 seconds...
+2026-02-28 16:09:01,271 - INFO - === Cycle 45: Checking 100 symbols ===
+2026-02-28 16:09:13,327 - INFO - Progress: 10/100 symbols checked
+2026-02-28 16:09:26,394 - INFO - Progress: 20/100 symbols checked
+2026-02-28 16:09:39,453 - INFO - Progress: 30/100 symbols checked
+2026-02-28 16:09:52,513 - INFO - Progress: 40/100 symbols checked
+2026-02-28 16:10:05,576 - INFO - Progress: 50/100 symbols checked
+2026-02-28 16:10:18,631 - INFO - Progress: 60/100 symbols checked
+2026-02-28 16:10:40,032 - INFO - Progress: 70/100 symbols checked
+2026-02-28 16:11:12,065 - INFO - Progress: 80/100 symbols checked
+2026-02-28 16:11:52,176 - INFO - Progress: 90/100 symbols checked
+2026-02-28 16:12:37,226 - INFO - Progress: 100/100 symbols checked
+2026-02-28 16:12:38,228 - INFO - Cycle 45 complete. Waiting 60 seconds...
+2026-02-28 16:13:38,251 - INFO - === Cycle 46: Checking 100 symbols ===
+2026-02-28 16:13:50,310 - INFO - Progress: 10/100 symbols checked
+2026-02-28 16:14:03,373 - INFO - Progress: 20/100 symbols checked
+2026-02-28 16:14:16,428 - INFO - Progress: 30/100 symbols checked
+2026-02-28 16:14:29,487 - INFO - Progress: 40/100 symbols checked
+2026-02-28 16:14:42,541 - INFO - Progress: 50/100 symbols checked
+2026-02-28 16:14:55,597 - INFO - Progress: 60/100 symbols checked
+2026-02-28 16:15:08,651 - INFO - Progress: 70/100 symbols checked
+2026-02-28 16:15:21,704 - INFO - Progress: 80/100 symbols checked
+2026-02-28 16:15:34,762 - INFO - Progress: 90/100 symbols checked
+2026-02-28 16:15:47,814 - INFO - Progress: 100/100 symbols checked
+2026-02-28 16:15:48,815 - INFO - Cycle 46 complete. Waiting 60 seconds...
+2026-02-28 16:16:48,816 - INFO - === Cycle 47: Checking 100 symbols ===
+2026-02-28 16:17:00,860 - INFO - Progress: 10/100 symbols checked
+2026-02-28 16:17:13,903 - INFO - Progress: 20/100 symbols checked
+2026-02-28 16:17:30,305 - INFO - Progress: 30/100 symbols checked
+2026-02-28 16:17:54,799 - INFO - Progress: 40/100 symbols checked
+2026-02-28 16:18:19,694 - INFO - Progress: 50/100 symbols checked
+2026-02-28 16:18:43,022 - INFO - Progress: 60/100 symbols checked
+2026-02-28 16:19:02,269 - INFO - Progress: 70/100 symbols checked
+2026-02-28 16:19:15,315 - INFO - Progress: 80/100 symbols checked
+2026-02-28 16:19:28,367 - INFO - Progress: 90/100 symbols checked
+2026-02-28 16:19:41,416 - INFO - Progress: 100/100 symbols checked
+2026-02-28 16:19:42,417 - INFO - Cycle 47 complete. Waiting 60 seconds...
+2026-02-28 16:20:42,419 - INFO - === Cycle 48: Checking 100 symbols ===
+2026-02-28 16:20:54,477 - INFO - Progress: 10/100 symbols checked
+2026-02-28 16:21:07,532 - INFO - Progress: 20/100 symbols checked
+2026-02-28 16:21:20,585 - INFO - Progress: 30/100 symbols checked
+2026-02-28 16:21:33,646 - INFO - Progress: 40/100 symbols checked
+2026-02-28 16:21:56,728 - INFO - Progress: 50/100 symbols checked
+2026-02-28 16:22:21,172 - INFO - Progress: 60/100 symbols checked
+2026-02-28 16:22:47,486 - INFO - Progress: 70/100 symbols checked
+2026-02-28 16:23:10,780 - INFO - Progress: 80/100 symbols checked
+2026-02-28 16:23:28,202 - INFO - Progress: 90/100 symbols checked
+2026-02-28 16:23:41,262 - INFO - Progress: 100/100 symbols checked
+2026-02-28 16:23:42,263 - INFO - Cycle 48 complete. Waiting 60 seconds...
+2026-02-28 16:24:42,265 - INFO - === Cycle 49: Checking 100 symbols ===
+2026-02-28 16:25:06,599 - INFO - Progress: 10/100 symbols checked
+2026-02-28 16:25:35,008 - INFO - Progress: 20/100 symbols checked
+2026-02-28 16:25:59,875 - INFO - Progress: 30/100 symbols checked
+2026-02-28 16:26:14,121 - INFO - Progress: 40/100 symbols checked
+2026-02-28 16:26:27,182 - INFO - Progress: 50/100 symbols checked
+2026-02-28 16:26:40,237 - INFO - Progress: 60/100 symbols checked
+2026-02-28 16:26:53,297 - INFO - Progress: 70/100 symbols checked
+2026-02-28 16:27:06,966 - INFO - Progress: 80/100 symbols checked
+2026-02-28 16:27:20,037 - INFO - Progress: 90/100 symbols checked
+2026-02-28 16:27:45,578 - INFO - Progress: 100/100 symbols checked
+2026-02-28 16:27:46,579 - INFO - Cycle 49 complete. Waiting 60 seconds...
+2026-02-28 16:28:46,601 - INFO - === Cycle 50: Checking 100 symbols ===
+2026-02-28 16:28:59,273 - INFO - Progress: 10/100 symbols checked
+2026-02-28 16:29:12,325 - INFO - Progress: 20/100 symbols checked
+2026-02-28 16:29:25,385 - INFO - Progress: 30/100 symbols checked
+2026-02-28 16:29:38,437 - INFO - Progress: 40/100 symbols checked
+2026-02-28 16:29:51,496 - INFO - Progress: 50/100 symbols checked
+2026-02-28 16:30:04,795 - INFO - Progress: 60/100 symbols checked
+2026-02-28 16:30:25,178 - INFO - Progress: 70/100 symbols checked
+2026-02-28 16:30:49,812 - INFO - Progress: 80/100 symbols checked
+2026-02-28 16:31:16,027 - INFO - Progress: 90/100 symbols checked
+2026-02-28 16:31:37,501 - INFO - Progress: 100/100 symbols checked
+2026-02-28 16:31:38,502 - INFO - Cycle 50 complete. Waiting 60 seconds...
+2026-02-28 16:32:38,504 - INFO - === Cycle 51: Checking 100 symbols ===
+2026-02-28 16:32:50,911 - INFO - Progress: 10/100 symbols checked
+2026-02-28 16:33:03,965 - INFO - Progress: 20/100 symbols checked
+2026-02-28 16:33:17,025 - INFO - Progress: 30/100 symbols checked
+2026-02-28 16:33:30,083 - INFO - Progress: 40/100 symbols checked
+2026-02-28 16:33:43,145 - INFO - Progress: 50/100 symbols checked
+2026-02-28 16:33:56,185 - INFO - Progress: 60/100 symbols checked
+2026-02-28 16:34:09,212 - INFO - Progress: 70/100 symbols checked
+2026-02-28 16:34:22,237 - INFO - Progress: 80/100 symbols checked
+2026-02-28 16:34:35,262 - INFO - Progress: 90/100 symbols checked
+2026-02-28 16:34:48,289 - INFO - Progress: 100/100 symbols checked
+2026-02-28 16:34:49,290 - INFO - Cycle 51 complete. Waiting 60 seconds...
+2026-02-28 16:35:49,291 - INFO - === Cycle 52: Checking 100 symbols ===
+2026-02-28 16:36:01,323 - INFO - Progress: 10/100 symbols checked
+2026-02-28 16:36:14,384 - INFO - Progress: 20/100 symbols checked
+2026-02-28 16:36:27,438 - INFO - Progress: 30/100 symbols checked
+2026-02-28 16:36:40,494 - INFO - Progress: 40/100 symbols checked
+2026-02-28 16:36:53,555 - INFO - Progress: 50/100 symbols checked
+2026-02-28 16:37:06,614 - INFO - Progress: 60/100 symbols checked
+2026-02-28 16:37:19,675 - INFO - Progress: 70/100 symbols checked
+2026-02-28 16:37:32,729 - INFO - Progress: 80/100 symbols checked
+2026-02-28 16:37:45,789 - INFO - Progress: 90/100 symbols checked
+2026-02-28 16:37:58,841 - INFO - Progress: 100/100 symbols checked
+2026-02-28 16:37:59,842 - INFO - Cycle 52 complete. Waiting 60 seconds...
+2026-02-28 16:38:59,844 - INFO - === Cycle 53: Checking 100 symbols ===
+2026-02-28 16:39:11,900 - INFO - Progress: 10/100 symbols checked
+2026-02-28 16:39:24,957 - INFO - Progress: 20/100 symbols checked
+2026-02-28 16:39:38,020 - INFO - Progress: 30/100 symbols checked
+2026-02-28 16:39:51,079 - INFO - Progress: 40/100 symbols checked
+2026-02-28 16:40:04,146 - INFO - Progress: 50/100 symbols checked
+2026-02-28 16:40:17,205 - INFO - Progress: 60/100 symbols checked
+2026-02-28 16:40:30,261 - INFO - Progress: 70/100 symbols checked
+2026-02-28 16:40:43,320 - INFO - Progress: 80/100 symbols checked
+2026-02-28 16:40:56,379 - INFO - Progress: 90/100 symbols checked
+2026-02-28 16:41:09,442 - INFO - Progress: 100/100 symbols checked
+2026-02-28 16:41:10,443 - INFO - Cycle 53 complete. Waiting 60 seconds...
+2026-02-28 16:42:10,445 - INFO - === Cycle 54: Checking 100 symbols ===
+2026-02-28 16:42:22,499 - INFO - Progress: 10/100 symbols checked
+2026-02-28 16:42:35,555 - INFO - Progress: 20/100 symbols checked
+2026-02-28 16:42:48,619 - INFO - Progress: 30/100 symbols checked
+2026-02-28 16:43:01,677 - INFO - Progress: 40/100 symbols checked
+2026-02-28 16:43:14,788 - INFO - Progress: 50/100 symbols checked
+2026-02-28 16:43:27,836 - INFO - Progress: 60/100 symbols checked
+2026-02-28 16:43:40,895 - INFO - Progress: 70/100 symbols checked
+2026-02-28 16:43:53,963 - INFO - Progress: 80/100 symbols checked
+2026-02-28 16:44:21,708 - INFO - Progress: 90/100 symbols checked
+2026-02-28 16:44:44,677 - INFO - Progress: 100/100 symbols checked
+2026-02-28 16:44:45,685 - INFO - Cycle 54 complete. Waiting 60 seconds...
+2026-02-28 16:45:45,686 - INFO - === Cycle 55: Checking 100 symbols ===
+2026-02-28 16:46:35,578 - INFO - Progress: 10/100 symbols checked
+2026-02-28 16:47:00,631 - INFO - Progress: 20/100 symbols checked
+2026-02-28 16:47:04,810 - WARNING - ALERT: BCH/USDT:USDT Alert!
+Price: $444.20
+Near SUPPORT: $443.10
+Condition: OVERBOUGHT
+RSI(4H): 11.55 | RSI(1D): 16.30
+2026-02-28 16:47:04,814 - INFO - BCH/USDT:USDT - Price: $444.20, RSI(4H): 11.55, RSI(1D): 16.30
+2026-02-28 16:47:23,933 - INFO - Progress: 30/100 symbols checked
+2026-02-28 16:47:50,261 - INFO - Progress: 40/100 symbols checked
+2026-02-28 16:48:17,142 - INFO - Progress: 50/100 symbols checked
+2026-02-28 16:48:36,022 - WARNING - ALERT: ATOM/USDT:USDT Alert!
+Price: $1.79
+Near SUPPORT: $1.83
+Condition: OVERBOUGHT
+RSI(4H): 21.47 | RSI(1D): 17.61
+2026-02-28 16:48:36,023 - INFO - ATOM/USDT:USDT - Price: $1.79, RSI(4H): 21.47, RSI(1D): 17.61
+2026-02-28 16:48:44,645 - INFO - Progress: 60/100 symbols checked
+2026-02-28 16:49:14,738 - INFO - Progress: 70/100 symbols checked
+2026-02-28 16:49:32,329 - WARNING - ALERT: ARC/USDT:USDT Alert!
+Price: $0.03
+Near SUPPORT: $0.03
+Condition: OVERBOUGHT
+RSI(4H): 17.99 | RSI(1D): 21.98
+2026-02-28 16:49:32,331 - INFO - ARC/USDT:USDT - Price: $0.03, RSI(4H): 17.99, RSI(1D): 21.98
+2026-02-28 16:49:41,049 - INFO - Progress: 80/100 symbols checked
+2026-02-28 16:50:06,753 - INFO - Progress: 90/100 symbols checked
+2026-02-28 16:50:31,404 - INFO - Progress: 100/100 symbols checked
+2026-02-28 16:50:32,405 - INFO - Cycle 55 complete. Waiting 60 seconds...
+2026-02-28 16:51:32,407 - INFO - === Cycle 56: Checking 100 symbols ===
+2026-02-28 16:51:58,561 - INFO - Progress: 10/100 symbols checked
+2026-02-28 16:52:00,992 - WARNING - ALERT: 1000PEPE/USDT:USDT Alert!
+Price: $0.00
+Near SUPPORT: $0.00
+Condition: OVERSOLD
+RSI(4H): 31.74 | RSI(1D): 100.00
+2026-02-28 16:52:00,996 - INFO - 1000PEPE/USDT:USDT - Price: $0.00, RSI(4H): 31.74, RSI(1D): 100.00
+2026-02-28 16:52:24,669 - INFO - Progress: 20/100 symbols checked
+2026-02-28 16:52:28,854 - WARNING - ALERT: BCH/USDT:USDT Alert!
+Price: $448.20
+Near RESISTANCE: $458.85
+Condition: OVERBOUGHT
+RSI(4H): 21.69 | RSI(1D): 16.99
+2026-02-28 16:52:28,859 - INFO - BCH/USDT:USDT - Price: $448.20, RSI(4H): 21.69, RSI(1D): 16.99
+2026-02-28 16:52:50,377 - INFO - Progress: 30/100 symbols checked
+2026-02-28 16:53:15,083 - INFO - Progress: 40/100 symbols checked
+2026-02-28 16:53:41,702 - INFO - Progress: 50/100 symbols checked
+2026-02-28 16:54:06,469 - INFO - Progress: 60/100 symbols checked
+2026-02-28 16:54:29,963 - INFO - Progress: 70/100 symbols checked
+2026-02-28 16:54:57,046 - INFO - Progress: 80/100 symbols checked
+2026-02-28 16:55:50,414 - INFO - Progress: 90/100 symbols checked
+2026-02-28 16:56:25,327 - INFO - Progress: 100/100 symbols checked
+2026-02-28 16:56:26,328 - INFO - Cycle 56 complete. Waiting 60 seconds...
+2026-02-28 16:57:26,330 - INFO - === Cycle 57: Checking 100 symbols ===
+2026-02-28 16:57:51,887 - INFO - Progress: 10/100 symbols checked
+2026-02-28 16:58:17,608 - INFO - Progress: 20/100 symbols checked
+2026-02-28 16:58:45,639 - INFO - Progress: 30/100 symbols checked
+2026-02-28 16:59:10,622 - INFO - Progress: 40/100 symbols checked
+2026-02-28 16:59:34,272 - INFO - Progress: 50/100 symbols checked
+2026-02-28 17:00:01,035 - INFO - Progress: 60/100 symbols checked
+2026-02-28 17:00:26,259 - INFO - Progress: 70/100 symbols checked
+2026-02-28 17:00:52,548 - INFO - Progress: 80/100 symbols checked
+2026-02-28 17:01:21,648 - INFO - Progress: 90/100 symbols checked
+2026-02-28 17:01:48,995 - INFO - Progress: 100/100 symbols checked
+2026-02-28 17:01:49,997 - INFO - Cycle 57 complete. Waiting 60 seconds...
+2026-02-28 17:02:49,998 - INFO - === Cycle 58: Checking 100 symbols ===
+2026-02-28 17:03:17,409 - INFO - Progress: 10/100 symbols checked
+2026-02-28 17:03:42,505 - INFO - Progress: 20/100 symbols checked
+2026-02-28 17:04:09,435 - INFO - Progress: 30/100 symbols checked
+2026-02-28 17:04:33,136 - INFO - Progress: 40/100 symbols checked
+2026-02-28 17:04:57,908 - INFO - Progress: 50/100 symbols checked
+2026-02-28 17:05:22,914 - INFO - Progress: 60/100 symbols checked
+2026-02-28 17:05:48,742 - INFO - Progress: 70/100 symbols checked
+2026-02-28 17:06:13,638 - INFO - Progress: 80/100 symbols checked
+2026-02-28 17:06:36,834 - INFO - Progress: 90/100 symbols checked
+2026-02-28 17:07:03,218 - INFO - Progress: 100/100 symbols checked
+2026-02-28 17:07:04,219 - INFO - Cycle 58 complete. Waiting 60 seconds...
+2026-02-28 17:08:04,220 - INFO - === Cycle 59: Checking 100 symbols ===
+2026-02-28 17:08:30,562 - INFO - Progress: 10/100 symbols checked
+2026-02-28 17:09:02,107 - INFO - Progress: 20/100 symbols checked
+2026-02-28 17:09:28,586 - INFO - Progress: 30/100 symbols checked
+2026-02-28 17:09:52,216 - INFO - Progress: 40/100 symbols checked
+2026-02-28 17:10:19,422 - INFO - Progress: 50/100 symbols checked
+2026-02-28 17:10:47,229 - INFO - Progress: 60/100 symbols checked
+2026-02-28 17:11:14,476 - INFO - Progress: 70/100 symbols checked
+2026-02-28 17:11:39,388 - INFO - Progress: 80/100 symbols checked
+2026-02-28 17:12:03,534 - INFO - Progress: 90/100 symbols checked
+2026-02-28 17:12:30,264 - INFO - Progress: 100/100 symbols checked
+2026-02-28 17:12:31,265 - INFO - Cycle 59 complete. Waiting 60 seconds...
+2026-02-28 17:13:31,266 - INFO - === Cycle 60: Checking 100 symbols ===
+2026-02-28 17:13:56,415 - INFO - Progress: 10/100 symbols checked
+2026-02-28 17:14:22,659 - INFO - Progress: 20/100 symbols checked
+2026-02-28 17:14:47,323 - INFO - Progress: 30/100 symbols checked
+2026-02-28 17:15:12,019 - INFO - Progress: 40/100 symbols checked
+2026-02-28 17:15:38,311 - INFO - Progress: 50/100 symbols checked
+2026-02-28 17:16:04,088 - INFO - Progress: 60/100 symbols checked
+2026-02-28 17:16:30,254 - INFO - Progress: 70/100 symbols checked
+2026-02-28 17:16:54,139 - INFO - Progress: 80/100 symbols checked
+2026-02-28 17:17:19,344 - INFO - Progress: 90/100 symbols checked
+2026-02-28 17:17:44,714 - INFO - Progress: 100/100 symbols checked
+2026-02-28 17:17:45,715 - INFO - Cycle 60 complete. Waiting 60 seconds...
+2026-02-28 17:18:45,715 - INFO - === Cycle 61: Checking 100 symbols ===
+2026-02-28 17:19:30,901 - INFO - Progress: 10/100 symbols checked
+2026-02-28 17:19:55,465 - INFO - Progress: 20/100 symbols checked
+2026-02-28 17:20:20,627 - INFO - Progress: 30/100 symbols checked
+2026-02-28 17:20:47,069 - INFO - Progress: 40/100 symbols checked
+2026-02-28 17:21:11,614 - INFO - Progress: 50/100 symbols checked
+2026-02-28 17:21:38,285 - INFO - Progress: 60/100 symbols checked
+2026-02-28 17:22:02,257 - INFO - Progress: 70/100 symbols checked
+2026-02-28 17:22:28,423 - INFO - Progress: 80/100 symbols checked
+2026-02-28 17:22:52,057 - INFO - Progress: 90/100 symbols checked
+2026-02-28 17:23:16,987 - INFO - Progress: 100/100 symbols checked
+2026-02-28 17:23:17,988 - INFO - Cycle 61 complete. Waiting 60 seconds...
+2026-02-28 17:24:17,989 - INFO - === Cycle 62: Checking 100 symbols ===
+2026-02-28 17:24:42,554 - INFO - Progress: 10/100 symbols checked
+2026-02-28 17:25:10,671 - INFO - Progress: 20/100 symbols checked
+2026-02-28 17:25:47,671 - INFO - Progress: 30/100 symbols checked
+2026-02-28 17:26:14,052 - INFO - Progress: 40/100 symbols checked
+2026-02-28 17:26:42,860 - INFO - Progress: 50/100 symbols checked
+2026-02-28 17:27:09,026 - INFO - Progress: 60/100 symbols checked
+2026-02-28 17:27:34,194 - INFO - Progress: 70/100 symbols checked
+2026-02-28 17:27:59,610 - INFO - Progress: 80/100 symbols checked
+2026-02-28 17:28:25,077 - INFO - Progress: 90/100 symbols checked
+2026-02-28 17:28:49,807 - INFO - Progress: 100/100 symbols checked
+2026-02-28 17:28:50,815 - INFO - Cycle 62 complete. Waiting 60 seconds...
+2026-02-28 17:29:50,816 - INFO - === Cycle 63: Checking 100 symbols ===
+2026-02-28 17:30:16,955 - INFO - Progress: 10/100 symbols checked
+2026-02-28 17:30:40,690 - INFO - Progress: 20/100 symbols checked
+2026-02-28 17:31:05,953 - INFO - Progress: 30/100 symbols checked
+2026-02-28 17:31:32,069 - INFO - Progress: 40/100 symbols checked
+2026-02-28 17:31:57,217 - INFO - Progress: 50/100 symbols checked
+2026-02-28 17:32:24,753 - INFO - Progress: 60/100 symbols checked
+2026-02-28 17:32:48,502 - INFO - Progress: 70/100 symbols checked
+2026-02-28 17:33:11,438 - INFO - Progress: 80/100 symbols checked
+2026-02-28 17:33:38,184 - INFO - Progress: 90/100 symbols checked
+2026-02-28 17:34:01,703 - INFO - Progress: 100/100 symbols checked
+2026-02-28 17:34:02,704 - INFO - Cycle 63 complete. Waiting 60 seconds...
+2026-02-28 17:35:02,706 - INFO - === Cycle 64: Checking 100 symbols ===
+2026-02-28 17:35:29,604 - INFO - Progress: 10/100 symbols checked
+2026-02-28 17:35:55,615 - INFO - Progress: 20/100 symbols checked
+2026-02-28 17:36:22,847 - INFO - Progress: 30/100 symbols checked
+2026-02-28 17:36:48,780 - INFO - Progress: 40/100 symbols checked
+2026-02-28 17:37:15,715 - INFO - Progress: 50/100 symbols checked
+2026-02-28 17:37:40,371 - INFO - Progress: 60/100 symbols checked
+2026-02-28 17:38:06,937 - INFO - Progress: 70/100 symbols checked
+2026-02-28 17:38:31,621 - INFO - Progress: 80/100 symbols checked
+2026-02-28 17:38:56,440 - INFO - Progress: 90/100 symbols checked
+2026-02-28 17:39:21,138 - INFO - Progress: 100/100 symbols checked
+2026-02-28 17:39:22,139 - INFO - Cycle 64 complete. Waiting 60 seconds...
+2026-02-28 17:40:22,141 - INFO - === Cycle 65: Checking 100 symbols ===
+2026-02-28 17:40:48,357 - INFO - Progress: 10/100 symbols checked
+2026-02-28 17:41:15,733 - INFO - Progress: 20/100 symbols checked
+2026-02-28 17:41:39,512 - INFO - Progress: 30/100 symbols checked
+2026-02-28 17:42:05,023 - INFO - Progress: 40/100 symbols checked
+2026-02-28 17:42:28,752 - INFO - Progress: 50/100 symbols checked
+2026-02-28 17:42:54,596 - INFO - Progress: 60/100 symbols checked
+2026-02-28 17:43:21,606 - INFO - Progress: 70/100 symbols checked
+2026-02-28 17:43:47,911 - INFO - Progress: 80/100 symbols checked
+2026-02-28 17:44:11,825 - INFO - Progress: 90/100 symbols checked
+2026-02-28 17:44:36,428 - INFO - Progress: 100/100 symbols checked
+2026-02-28 17:44:37,429 - INFO - Cycle 65 complete. Waiting 60 seconds...
+2026-02-28 17:45:37,431 - INFO - === Cycle 66: Checking 100 symbols ===
+2026-02-28 17:46:02,246 - INFO - Progress: 10/100 symbols checked
+2026-02-28 17:46:26,090 - INFO - Progress: 20/100 symbols checked
+2026-02-28 17:46:50,375 - INFO - Progress: 30/100 symbols checked
+2026-02-28 17:47:14,681 - INFO - Progress: 40/100 symbols checked
+2026-02-28 17:47:38,279 - INFO - Progress: 50/100 symbols checked
+2026-02-28 17:48:02,698 - INFO - Progress: 60/100 symbols checked
+2026-02-28 17:48:30,008 - INFO - Progress: 70/100 symbols checked
+2026-02-28 17:49:08,109 - INFO - Progress: 80/100 symbols checked
+2026-02-28 17:49:35,074 - INFO - Progress: 90/100 symbols checked
+2026-02-28 17:49:59,081 - INFO - Progress: 100/100 symbols checked
+2026-02-28 17:50:00,082 - INFO - Cycle 66 complete. Waiting 60 seconds...
+2026-02-28 17:51:00,082 - INFO - === Cycle 67: Checking 100 symbols ===
+2026-02-28 17:51:28,042 - INFO - Progress: 10/100 symbols checked
+2026-02-28 17:51:55,861 - INFO - Progress: 20/100 symbols checked
+2026-02-28 17:52:01,374 - WARNING - ALERT: BCH/USDT:USDT Alert!
+Price: $444.80
+Near SUPPORT: $443.10
+Condition: OVERBOUGHT
+RSI(4H): 11.81 | RSI(1D): 16.45
+2026-02-28 17:52:01,374 - INFO - BCH/USDT:USDT - Price: $444.80, RSI(4H): 11.81, RSI(1D): 16.45
+2026-02-28 17:52:20,143 - INFO - Progress: 30/100 symbols checked
+2026-02-28 17:52:44,482 - INFO - Progress: 40/100 symbols checked
+2026-02-28 17:53:10,205 - INFO - Progress: 50/100 symbols checked
+2026-02-28 17:53:32,113 - WARNING - ALERT: ATOM/USDT:USDT Alert!
+Price: $1.79
+Near SUPPORT: $1.83
+Condition: OVERBOUGHT
+RSI(4H): 25.94 | RSI(1D): 17.91
+2026-02-28 17:53:32,114 - INFO - ATOM/USDT:USDT - Price: $1.79, RSI(4H): 25.94, RSI(1D): 17.91
+2026-02-28 17:53:39,303 - INFO - Progress: 60/100 symbols checked
+2026-02-28 17:54:07,301 - INFO - Progress: 70/100 symbols checked
+2026-02-28 17:54:33,448 - INFO - Progress: 80/100 symbols checked
+2026-02-28 17:54:58,497 - INFO - Progress: 90/100 symbols checked
+2026-02-28 17:55:23,097 - INFO - Progress: 100/100 symbols checked
+2026-02-28 17:55:24,098 - INFO - Cycle 67 complete. Waiting 60 seconds...
+2026-02-28 17:56:24,099 - INFO - === Cycle 68: Checking 100 symbols ===
+2026-02-28 17:56:47,458 - INFO - Progress: 10/100 symbols checked
+2026-02-28 17:57:10,689 - INFO - Progress: 20/100 symbols checked
+2026-02-28 17:57:35,879 - INFO - Progress: 30/100 symbols checked
+2026-02-28 17:58:11,782 - INFO - Progress: 40/100 symbols checked
+2026-02-28 17:58:56,366 - INFO - Progress: 50/100 symbols checked
+2026-02-28 17:59:21,662 - INFO - Progress: 60/100 symbols checked
+2026-02-28 17:59:47,057 - INFO - Progress: 70/100 symbols checked
+2026-02-28 18:00:14,049 - INFO - Progress: 80/100 symbols checked
+2026-02-28 18:00:27,106 - INFO - Progress: 90/100 symbols checked
+2026-02-28 18:00:40,168 - INFO - Progress: 100/100 symbols checked
+2026-02-28 18:00:41,169 - INFO - Cycle 68 complete. Waiting 60 seconds...
+2026-02-28 18:01:41,171 - INFO - === Cycle 69: Checking 100 symbols ===
+2026-02-28 18:01:53,231 - INFO - Progress: 10/100 symbols checked

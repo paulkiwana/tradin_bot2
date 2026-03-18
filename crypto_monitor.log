@@ -1636,3 +1636,17 @@ RSI(4H): 25.94 | RSI(1D): 17.91
 2026-02-28 18:00:41,169 - INFO - Cycle 68 complete. Waiting 60 seconds...
 2026-02-28 18:01:41,171 - INFO - === Cycle 69: Checking 100 symbols ===
 2026-02-28 18:01:53,231 - INFO - Progress: 10/100 symbols checked
+2026-03-18 14:25:59,669 - INFO - Initialized AutoCryptoMonitor on bybit
+2026-03-18 14:25:59,670 - INFO - Auto-discovering symbols with quote currencies: USDT, USD, BTC, ETH
+2026-03-18 14:25:59,670 - INFO - Minimum 24h volume: $1,000,000
+2026-03-18 14:27:30,827 - INFO - Initialized AutoCryptoMonitor on bybit
+2026-03-18 14:27:30,828 - INFO - Auto-discovering symbols with quote currencies: USDT, USD, BTC, ETH
+2026-03-18 14:27:30,828 - INFO - Minimum 24h volume: $1,000,000
+2026-03-18 14:28:08,420 - INFO - Discovering available cryptocurrencies...
+2026-03-18 14:28:16,268 - INFO - Fetching market data for volume filtering...
+2026-03-18 14:28:16,845 - INFO - Discovered 100 cryptocurrencies to monitor
+2026-03-18 14:28:16,846 - INFO - Top 10 by volume: BTC/USDT:USDT, ETH/USDT:USDT, SOL/USDT:USDT, XRP/USDT:USDT, HYPE/USDT:USDT, DOGE/USDT:USDT, 1000PEPE/USDT:USDT, PIPPIN/USDT:USDT, FARTCOIN/USDT:USDT, ZEC/USDT:USDT
+2026-03-18 14:28:16,850 - INFO - Saved 100 symbols to cache
+2026-03-18 14:28:16,855 - INFO - Monitor loop started (controlled via /ui).
+2026-03-18 14:28:16,855 - INFO - === Cycle 1: Checking 100 symbols ===
+2026-03-18 14:28:19,151 - INFO - Monitor loop stopped.

@@ -1,605 +1,605 @@
 {
-  "timestamp": 1772435091.5257332,
+  "timestamp": 1773833296.8464882,
   "exchange": "bybit",
   "symbols": [
     {
       "symbol": "BTC/USDT:USDT",
-      "volume": 5538337303.7095,
-      "price": 65964.1,
+      "volume": 4601074764.6722,
+      "price": 73773.1,
       "quote": "USDT"
     },
     {
       "symbol": "ETH/USDT:USDT",
-      "volume": 3146839236.0425,
-      "price": 1934.24,
+      "volume": 2741554335.5858,
+      "price": 2306.55,
       "quote": "USDT"
     },
     {
       "symbol": "SOL/USDT:USDT",
-      "volume": 1339439024.831,
-      "price": 82.96,
+      "volume": 795954186.352,
+      "price": 93.61,
       "quote": "USDT"
     },
     {
       "symbol": "XRP/USDT:USDT",
-      "volume": 451841644.9638,
-      "price": 1.346,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "XAUT/USDT:USDT",
-      "volume": 288741197.0345,
-      "price": 5359.2,
+      "volume": 456284257.2429,
+      "price": 1.5062,
       "quote": "USDT"
     },
     {
       "symbol": "HYPE/USDT:USDT",
-      "volume": 284350469.3105,
-      "price": 30.306,
+      "volume": 207629481.8365,
+      "price": 41.295,
       "quote": "USDT"
     },
     {
       "symbol": "DOGE/USDT:USDT",
-      "volume": 192183481.6314,
-      "price": 0.09179,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "POWER/USDT:USDT",
-      "volume": 156250569.8367,
-      "price": 1.72723,
+      "volume": 183070780.8667,
+      "price": 0.09891,
       "quote": "USDT"
     },
     {
       "symbol": "1000PEPE/USDT:USDT",
-      "volume": 128170822.755,
-      "price": 0.003427,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "SAHARA/USDT:USDT",
-      "volume": 107596120.7966,
-      "price": 0.02445,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "SUI/USDT:USDT",
-      "volume": 90642597.871,
-      "price": 0.8885,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "ADA/USDT:USDT",
-      "volume": 80766868.5677,
-      "price": 0.271,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "RIVER/USDT:USDT",
-      "volume": 80592703.9954,
-      "price": 14.604,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "ARC/USDT:USDT",
-      "volume": 69418188.6603,
-      "price": 0.04423,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "ESP/USDT:USDT",
-      "volume": 68677341.9969,
-      "price": 0.13072,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "NEAR/USDT:USDT",
-      "volume": 63911182.6492,
-      "price": 1.1973,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "FARTCOIN/USDT:USDT",
-      "volume": 63809201.0317,
-      "price": 0.15331,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "LINK/USDT:USDT",
-      "volume": 62671484.0797,
-      "price": 8.664,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "BNB/USDT:USDT",
-      "volume": 61056194.204,
-      "price": 615.1,
+      "volume": 182221908.5431,
+      "price": 0.003652,
       "quote": "USDT"
     },
     {
       "symbol": "PIPPIN/USDT:USDT",
-      "volume": 59533587.0479,
-      "price": 0.5469,
+      "volume": 161232917.4819,
+      "price": 0.11234,
       "quote": "USDT"
     },
     {
-      "symbol": "VVV/USDT:USDT",
-      "volume": 59254513.9898,
-      "price": 6.5802,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "PAXG/USDT:USDT",
-      "volume": 51672168.812,
-      "price": 5424.7,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "AAVE/USDT:USDT",
-      "volume": 48091921.9043,
-      "price": 113.5,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "DOT/USDT:USDT",
-      "volume": 47565025.1613,
-      "price": 1.5188,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "AVAX/USDT:USDT",
-      "volume": 41939019.7503,
-      "price": 8.933,
+      "symbol": "FARTCOIN/USDT:USDT",
+      "volume": 156855343.4087,
+      "price": 0.20903,
       "quote": "USDT"
     },
     {
       "symbol": "ZEC/USDT:USDT",
-      "volume": 41843118.5768,
-      "price": 213.28,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "LTC/USDT:USDT",
-      "volume": 40405415.075,
-      "price": 53.29,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "BCH/USDT:USDT",
-      "volume": 38430716.187,
-      "price": 444.3,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "ENA/USDT:USDT",
-      "volume": 36490994.4277,
-      "price": 0.1036,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "TAO/USDT:USDT",
-      "volume": 35295972.0392,
-      "price": 175.42,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "PUMPFUN/USDT:USDT",
-      "volume": 33661092.4273,
-      "price": 0.001896,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "VIRTUAL/USDT:USDT",
-      "volume": 32359676.7687,
-      "price": 0.6924,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "WIF/USDT:USDT",
-      "volume": 31866241.9075,
-      "price": 0.18959,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "GRASS/USDT:USDT",
-      "volume": 29579110.9376,
-      "price": 0.28348,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "LYN/USDT:USDT",
-      "volume": 27734931.6515,
-      "price": 0.3268,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "ZRO/USDT:USDT",
-      "volume": 25829565.0616,
-      "price": 1.7864,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "ARB/USDT:USDT",
-      "volume": 25395936.8328,
-      "price": 0.09943,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "ALICE/USDT:USDT",
-      "volume": 23440130.8858,
-      "price": 0.15203,
+      "volume": 109926521.4471,
+      "price": 279.02,
       "quote": "USDT"
     },
     {
       "symbol": "ASTER/USDT:USDT",
-      "volume": 23335082.7462,
-      "price": 0.6921,
+      "volume": 100107054.0793,
+      "price": 0.7156,
       "quote": "USDT"
     },
     {
-      "symbol": "OP/USDT:USDT",
-      "volume": 22750655.3351,
-      "price": 0.12092,
+      "symbol": "RIVER/USDT:USDT",
+      "volume": 89132983.1691,
+      "price": 24.918,
       "quote": "USDT"
     },
     {
-      "symbol": "FIO/USDT:USDT",
-      "volume": 21258242.1886,
-      "price": 0.010579,
+      "symbol": "TAO/USDT:USDT",
+      "volume": 80284524.5439,
+      "price": 278.5,
       "quote": "USDT"
     },
     {
-      "symbol": "UNI/USDT:USDT",
-      "volume": 21050306.2454,
-      "price": 3.772,
+      "symbol": "XAUT/USDT:USDT",
+      "volume": 76062738.4773,
+      "price": 4918.7,
       "quote": "USDT"
     },
     {
-      "symbol": "HIPPO/USDT:USDT",
-      "volume": 20846780.4708,
-      "price": 0.0007083,
+      "symbol": "ADA/USDT:USDT",
+      "volume": 66749689.0068,
+      "price": 0.286,
       "quote": "USDT"
     },
     {
-      "symbol": "SHIB1000/USDT:USDT",
-      "volume": 20687858.2203,
-      "price": 0.005549,
+      "symbol": "SUI/USDT:USDT",
+      "volume": 63728006.283,
+      "price": 1.0214,
       "quote": "USDT"
     },
     {
-      "symbol": "BARD/USDT:USDT",
-      "volume": 19521954.9697,
-      "price": 1.0016,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "PENGU/USDT:USDT",
-      "volume": 19274886.9303,
-      "price": 0.00672,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "HBAR/USDT:USDT",
-      "volume": 18785955.9619,
-      "price": 0.09742,
+      "symbol": "POLYX/USDT:USDT",
+      "volume": 59790184.7172,
+      "price": 0.04733,
       "quote": "USDT"
     },
     {
       "symbol": "TRUMP/USDT:USDT",
-      "volume": 18183730.2002,
-      "price": 3.405,
+      "volume": 58988025.4853,
+      "price": 3.676,
       "quote": "USDT"
     },
     {
-      "symbol": "GALA/USDT:USDT",
-      "volume": 17921136.7319,
-      "price": 0.003484,
+      "symbol": "LYN/USDT:USDT",
+      "volume": 57186410.634,
+      "price": 0.0628,
       "quote": "USDT"
     },
     {
-      "symbol": "SPX/USDT:USDT",
-      "volume": 16361769.9159,
-      "price": 0.3152,
+      "symbol": "ENJ/USDT:USDT",
+      "volume": 52332860.1609,
+      "price": 0.026309,
       "quote": "USDT"
     },
     {
-      "symbol": "AXS/USDT:USDT",
-      "volume": 16136195.2044,
-      "price": 1.2554,
+      "symbol": "BAN/USDT:USDT",
+      "volume": 51242859.6541,
+      "price": 0.07677,
       "quote": "USDT"
     },
     {
-      "symbol": "APT/USDT:USDT",
-      "volume": 16091740.7534,
-      "price": 0.9325,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "WLFI/USDT:USDT",
-      "volume": 16006625.6518,
-      "price": 0.10546,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "TON/USDT:USDT",
-      "volume": 15873134.7277,
-      "price": 1.215,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "CRV/USDT:USDT",
-      "volume": 15370601.2194,
-      "price": 0.2401,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "ROBO/USDT:USDT",
-      "volume": 14883816.9172,
-      "price": 0.03865,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "1000BONK/USDT:USDT",
-      "volume": 14864351.5451,
-      "price": 0.005872,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "ONDO/USDT:USDT",
-      "volume": 14811419.4101,
-      "price": 0.2515,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "ICP/USDT:USDT",
-      "volume": 14670056.4045,
-      "price": 2.362,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "KITE/USDT:USDT",
-      "volume": 14584379.6181,
-      "price": 0.23945,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "XPL/USDT:USDT",
-      "volume": 13911174.6265,
-      "price": 0.0963,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "ENSO/USDT:USDT",
-      "volume": 13846949.835,
-      "price": 1.2978,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "ATH/USDT:USDT",
-      "volume": 13676688.5218,
-      "price": 0.006062,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "MIRA/USDT:USDT",
-      "volume": 13526968.8059,
-      "price": 0.09479,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "XLM/USDT:USDT",
-      "volume": 12817333.0793,
-      "price": 0.15334,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "JUP/USDT:USDT",
-      "volume": 12557104.8562,
-      "price": 0.16841,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "SEI/USDT:USDT",
-      "volume": 12032840.2547,
-      "price": 0.06881,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "WLD/USDT:USDT",
-      "volume": 11892246.1162,
-      "price": 0.3817,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "SKR/USDT:USDT",
-      "volume": 11675528.7007,
-      "price": 0.021451,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "KNC/USDT:USDT",
-      "volume": 11413207.1743,
-      "price": 0.16312,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "ATOM/USDT:USDT",
-      "volume": 11315079.6632,
-      "price": 1.8237,
+      "symbol": "ANKR/USDT:USDT",
+      "volume": 44350409.0247,
+      "price": 0.005457,
       "quote": "USDT"
     },
     {
       "symbol": "SIREN/USDT:USDT",
-      "volume": 10777366.0041,
-      "price": 0.26324,
+      "volume": 43558605.8434,
+      "price": 0.86811,
       "quote": "USDT"
     },
     {
-      "symbol": "WET/USDT:USDT",
-      "volume": 10558557.9137,
-      "price": 0.10026,
+      "symbol": "1000BONK/USDT:USDT",
+      "volume": 42814902.2253,
+      "price": 0.006581,
       "quote": "USDT"
     },
     {
-      "symbol": "IP/USDT:USDT",
-      "volume": 10061948.6479,
-      "price": 0.8421,
+      "symbol": "NEAR/USDT:USDT",
+      "volume": 38106456.8224,
+      "price": 1.4494,
       "quote": "USDT"
     },
     {
-      "symbol": "FIL/USDT:USDT",
-      "volume": 9994835.953,
-      "price": 0.97,
+      "symbol": "VANRY/USDT:USDT",
+      "volume": 36769228.5927,
+      "price": 0.0066,
       "quote": "USDT"
     },
     {
-      "symbol": "RENDER/USDT:USDT",
-      "volume": 9688567.3483,
-      "price": 1.344,
+      "symbol": "LINK/USDT:USDT",
+      "volume": 35458012.1137,
+      "price": 9.735,
       "quote": "USDT"
     },
     {
-      "symbol": "POL/USDT:USDT",
-      "volume": 9606217.155,
-      "price": 0.1063,
+      "symbol": "BNB/USDT:USDT",
+      "volume": 32943380.532,
+      "price": 670.2,
       "quote": "USDT"
     },
     {
-      "symbol": "TIA/USDT:USDT",
-      "volume": 9501914.9368,
-      "price": 0.32,
+      "symbol": "ROBO/USDT:USDT",
+      "volume": 32894473.2992,
+      "price": 0.02749,
       "quote": "USDT"
     },
     {
-      "symbol": "MYX/USDT:USDT",
-      "volume": 8933902.5798,
-      "price": 0.3794,
+      "symbol": "WIF/USDT:USDT",
+      "volume": 32051481.4465,
+      "price": 0.1847,
       "quote": "USDT"
     },
     {
-      "symbol": "STEEM/USDT:USDT",
-      "volume": 8606149.82,
-      "price": 0.06032,
+      "symbol": "ANIME/USDT:USDT",
+      "volume": 31442475.9565,
+      "price": 0.005292,
       "quote": "USDT"
     },
     {
-      "symbol": "LDO/USDT:USDT",
-      "volume": 8516225.0727,
-      "price": 0.2995,
+      "symbol": "DOT/USDT:USDT",
+      "volume": 28443565.4638,
+      "price": 1.6252,
       "quote": "USDT"
     },
     {
-      "symbol": "INJ/USDT:USDT",
-      "volume": 8377463.3065,
-      "price": 2.999,
+      "symbol": "PENGU/USDT:USDT",
+      "volume": 27569664.5456,
+      "price": 0.007832,
       "quote": "USDT"
     },
     {
-      "symbol": "AZTEC/USDT:USDT",
-      "volume": 8300481.7115,
-      "price": 0.021491,
+      "symbol": "XAG/USDT:USDT",
+      "volume": 26710055.8791,
+      "price": 78.86,
       "quote": "USDT"
     },
     {
-      "symbol": "ETC/USDT:USDT",
-      "volume": 8193588.0948,
-      "price": 8.524,
+      "symbol": "ENA/USDT:USDT",
+      "volume": 25902359.7755,
+      "price": 0.11374,
       "quote": "USDT"
     },
     {
-      "symbol": "XMR/USDT:USDT",
-      "volume": 7904884.27,
-      "price": 347.66,
+      "symbol": "XPL/USDT:USDT",
+      "volume": 25285720.7799,
+      "price": 0.1154,
       "quote": "USDT"
     },
     {
-      "symbol": "HANA/USDT:USDT",
-      "volume": 7634406.2805,
-      "price": 0.034667,
+      "symbol": "LTC/USDT:USDT",
+      "volume": 22321650.843,
+      "price": 57.42,
       "quote": "USDT"
     },
     {
-      "symbol": "ORBS/USDT:USDT",
-      "volume": 7420568.9857,
-      "price": 0.012769,
+      "symbol": "VIRTUAL/USDT:USDT",
+      "volume": 21617380.2455,
+      "price": 0.7828,
       "quote": "USDT"
     },
     {
-      "symbol": "STRK/USDT:USDT",
-      "volume": 7124943.126,
-      "price": 0.04006,
+      "symbol": "AVAX/USDT:USDT",
+      "volume": 21423950.2989,
+      "price": 10.192,
       "quote": "USDT"
     },
     {
-      "symbol": "ORDI/USDT:USDT",
-      "volume": 6839252.8898,
-      "price": 2.417,
+      "symbol": "AAVE/USDT:USDT",
+      "volume": 20967503.8422,
+      "price": 119.3,
       "quote": "USDT"
     },
     {
-      "symbol": "ZKP/USDT:USDT",
-      "volume": 6808352.2819,
-      "price": 0.08827,
+      "symbol": "WLD/USDT:USDT",
+      "volume": 20882778.1378,
+      "price": 0.3855,
       "quote": "USDT"
     },
     {
-      "symbol": "MON/USDT:USDT",
-      "volume": 6674016.9605,
-      "price": 0.020438,
+      "symbol": "TRIA/USDT:USDT",
+      "volume": 20176032.9079,
+      "price": 0.032807,
       "quote": "USDT"
     },
     {
-      "symbol": "DASH/USDT:USDT",
-      "volume": 6270356.5156,
-      "price": 31.65,
+      "symbol": "KAS/USDT:USDT",
+      "volume": 19882379.3799,
+      "price": 0.0392,
       "quote": "USDT"
     },
     {
-      "symbol": "LIT/USDT:USDT",
-      "volume": 6053383.2479,
-      "price": 1.3954,
+      "symbol": "HBAR/USDT:USDT",
+      "volume": 19814704.1841,
+      "price": 0.09859,
       "quote": "USDT"
     },
     {
-      "symbol": "SOLAYER/USDT:USDT",
-      "volume": 5962828.6164,
-      "price": 0.09059,
+      "symbol": "PIXEL/USDT:USDT",
+      "volume": 19760703.6375,
+      "price": 0.008674,
       "quote": "USDT"
     },
     {
-      "symbol": "IMX/USDT:USDT",
-      "volume": 5946575.2294,
-      "price": 0.16498,
+      "symbol": "TRX/USDT:USDT",
+      "volume": 18692325.0153,
+      "price": 0.30332,
       "quote": "USDT"
     },
     {
-      "symbol": "XTZ/USDT:USDT",
-      "volume": 5833536.2247,
-      "price": 0.3713,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "BERA/USDT:USDT",
-      "volume": 5833370.0264,
-      "price": 0.5946,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "MOODENG/USDT:USDT",
-      "volume": 5568137.5324,
-      "price": 0.04825,
-      "quote": "USDT"
-    },
-    {
-      "symbol": "JTO/USDT:USDT",
-      "volume": 5534293.7799,
-      "price": 0.2642,
+      "symbol": "ENSO/USDT:USDT",
+      "volume": 18274712.0084,
+      "price": 1.2318,
       "quote": "USDT"
     },
     {
       "symbol": "BEAT/USDT:USDT",
-      "volume": 5471958.8442,
-      "price": 0.24805,
+      "volume": 18199327.7046,
+      "price": 0.56134,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "HYPER/USDT:USDT",
+      "volume": 18025676.1266,
+      "price": 0.09696,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "KITE/USDT:USDT",
+      "volume": 17989107.8335,
+      "price": 0.18952,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "AXS/USDT:USDT",
+      "volume": 17721967.1186,
+      "price": 1.2747,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "AKT/USDT:USDT",
+      "volume": 16838317.1276,
+      "price": 0.5552,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "PUMPFUN/USDT:USDT",
+      "volume": 16558013.3778,
+      "price": 0.0020811,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "CFG/USDT:USDT",
+      "volume": 15644129.5993,
+      "price": 0.145,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "GALA/USDT:USDT",
+      "volume": 15615456.422,
+      "price": 0.003601,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "UNI/USDT:USDT",
+      "volume": 15169439.2094,
+      "price": 3.905,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "XLM/USDT:USDT",
+      "volume": 14726033.2347,
+      "price": 0.17321,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "RENDER/USDT:USDT",
+      "volume": 14524568.2248,
+      "price": 1.7938,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "XMR/USDT:USDT",
+      "volume": 14485792.4754,
+      "price": 364.96,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "CRV/USDT:USDT",
+      "volume": 14035365.9076,
+      "price": 0.2508,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "LIT/USDT:USDT",
+      "volume": 13614284.6488,
+      "price": 1.2195,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "ONDO/USDT:USDT",
+      "volume": 12790823.5443,
+      "price": 0.2783,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "MNT/USDT:USDT",
+      "volume": 12489295.8947,
+      "price": 0.8411,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "ICP/USDT:USDT",
+      "volume": 12265433.1441,
+      "price": 2.685,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "BARD/USDT:USDT",
+      "volume": 12175975.3616,
+      "price": 1.0737,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "ZRO/USDT:USDT",
+      "volume": 11958410.3705,
+      "price": 2.2896,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "W/USDT:USDT",
+      "volume": 11915056.5034,
+      "price": 0.018365,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "PAXG/USDT:USDT",
+      "volume": 11204467.132,
+      "price": 4942.9,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "SAHARA/USDT:USDT",
+      "volume": 10552150.709,
+      "price": 0.023571,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "BCH/USDT:USDT",
+      "volume": 10466014.447,
+      "price": 466.8,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "M/USDT:USDT",
+      "volume": 10227115.5022,
+      "price": 1.9026,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "GRASS/USDT:USDT",
+      "volume": 10056996.4439,
+      "price": 0.42633,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "ARB/USDT:USDT",
+      "volume": 9492453.4903,
+      "price": 0.1071,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "ZIL/USDT:USDT",
+      "volume": 9395767.6512,
+      "price": 0.004463,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "FIL/USDT:USDT",
+      "volume": 9262528.4307,
+      "price": 0.9713,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "MOODENG/USDT:USDT",
+      "volume": 9113281.2337,
+      "price": 0.0566,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "OP/USDT:USDT",
+      "volume": 9108844.044,
+      "price": 0.13473,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "SHIB1000/USDT:USDT",
+      "volume": 8697807.5043,
+      "price": 0.006031,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "ATH/USDT:USDT",
+      "volume": 8430247.7095,
+      "price": 0.007025,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "LIGHT/USDT:USDT",
+      "volume": 8375106.3982,
+      "price": 0.2113,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "APT/USDT:USDT",
+      "volume": 8211211.4412,
+      "price": 1.0051,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "TON/USDT:USDT",
+      "volume": 8091850.3398,
+      "price": 1.3303,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "IP/USDT:USDT",
+      "volume": 8068775.1484,
+      "price": 0.8072,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "AUCTION/USDT:USDT",
+      "volume": 7929314.6126,
+      "price": 5.114,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "WLFI/USDT:USDT",
+      "volume": 7755475.7175,
+      "price": 0.101,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "HUMA/USDT:USDT",
+      "volume": 7672837.4126,
+      "price": 0.018875,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "ATOM/USDT:USDT",
+      "volume": 7556769.2552,
+      "price": 2.0082,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "XAU/USDT:USDT",
+      "volume": 7345065.0102,
+      "price": 4952.54,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "FLOW/USDT:USDT",
+      "volume": 7018792.3909,
+      "price": 0.03528,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "POL/USDT:USDT",
+      "volume": 6681050.5547,
+      "price": 0.09936,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "XAN/USDT:USDT",
+      "volume": 6458244.7992,
+      "price": 0.010645,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "MON/USDT:USDT",
+      "volume": 6439821.3787,
+      "price": 0.024004,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "VVV/USDT:USDT",
+      "volume": 6379075.5994,
+      "price": 5.5261,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "SPX/USDT:USDT",
+      "volume": 6341338.4688,
+      "price": 0.3378,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "JUP/USDT:USDT",
+      "volume": 5904366.2064,
+      "price": 0.16958,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "DASH/USDT:USDT",
+      "volume": 5704337.2318,
+      "price": 34.92,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "WAL/USDT:USDT",
+      "volume": 5409461.8755,
+      "price": 0.08453,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "EIGEN/USDT:USDT",
+      "volume": 5346124.8787,
+      "price": 0.21138,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "ALGO/USDT:USDT",
+      "volume": 5227896.1507,
+      "price": 0.09315,
+      "quote": "USDT"
+    },
+    {
+      "symbol": "SEI/USDT:USDT",
+      "volume": 5120731.642,
+      "price": 0.06799,
       "quote": "USDT"
     }
   ]
